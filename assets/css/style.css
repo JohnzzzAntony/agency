@@ -328,9 +328,9 @@ h1, h2, h3, h4 { font-weight: 700; letter-spacing: -.02em; line-height: 1.12; }
 .work__media { min-height: 280px; position: relative; overflow: hidden; }
 .work__card--split .work__media { min-height: 100%; }
 
-/* Decorative placeholder artwork (no third-party imagery is bundled) */
+/* Project artwork */
 .art { position: relative; height: 100%; min-height: 120px; overflow: hidden; background: var(--bg-3); }
-.art::after { content: ""; position: absolute; inset: 0; background-image: repeating-linear-gradient(135deg, rgba(255, 255, 255, .16) 0 2px, transparent 2px 9px); }
+.art::after { display: none; }
 .art--indigo { background: linear-gradient(140deg, #2A1FB5, #6637F9 60%, #A78BFA); }
 .art--sky { background: linear-gradient(140deg, #7DB8F0, #C3D9F7 55%, #8E9BE8); }
 .art--magenta { background: linear-gradient(140deg, #8B37D4, #E42FC7 60%, #FF9AD5); }
