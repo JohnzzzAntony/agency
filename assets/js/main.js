@@ -128,15 +128,27 @@
     });
   });
 
-  /* ---- Contact form (no backend; confirms locally) ---- */
+  /* ---- Contact form ---- */
   $$('[data-contact-form]').forEach(function (form) {
-    form.addEventListener('submit', function (e) {
+    form.addEventListener('submit', async function (e) {
       e.preventDefault();
       var note = $('.form-note', form);
       if (!note) return;
-      note.textContent = 'This preview has not sent an enquiry. Email johnsantonyjo@gmail.com or WhatsApp +971 58 810 2728 to contact DuoNex.';
-      note.classList.add('is-ok');
-      form.reset();
+      if (!form.reportValidity()) return;
+      var submit = form.querySelector('[type="submit"]');
+      if (submit) submit.disabled = true;
+      try {
+        var entries = new FormData(form), data = {};
+        ['name','email','message','budget','source'].forEach(function (key) { data[key] = entries.get(key) || ''; });
+        data.help = entries.getAll('help').join(', ');
+        var response = await fetch('/api/inquiries', { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(data) });
+        var result = await response.json();
+        if (!response.ok) throw new Error(result.error || 'Unable to send your enquiry. Please try again.');
+        note.textContent = 'Thank you. Your enquiry has been received.';
+        note.classList.add('is-ok');
+        form.reset();
+      } catch (error) { note.textContent = error.message || 'Unable to send your enquiry. Please try again.'; note.classList.remove('is-ok'); }
+      finally { if (submit) submit.disabled = false; }
     });
   });
 
