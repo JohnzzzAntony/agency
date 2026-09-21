@@ -341,6 +341,14 @@ h1, h2, h3, h4 { font-weight: 700; letter-spacing: -.02em; line-height: 1.12; }
 .art--grey { background: linear-gradient(140deg, #C9C9C9, #E8E8E8 60%, #F6F5F5); }
 .art--yellow { background: linear-gradient(140deg, #E0AE00, #FFD500 60%, #FFEE99); }
 .art--orange { background: linear-gradient(140deg, #C44115, #FE5218 60%, #FF9A6B); }
+.art--indigo { background-image: linear-gradient(135deg, rgba(8,18,52,.18), rgba(63,47,238,.28)), url('../images/custom-websites-hero.png'); background-size: cover; background-position: center; }
+.art--dark { background-image: linear-gradient(135deg, rgba(8,12,28,.18), rgba(34,21,83,.25)), url('../images/custom-dashboard.png'); background-size: cover; background-position: center; }
+.art--sky { background-image: linear-gradient(135deg, rgba(255,255,255,.08), rgba(63,47,238,.16)), url('../images/ecommerce-experience.png'); background-size: cover; background-position: center; }
+.art--grey { background-image: linear-gradient(135deg, rgba(242,244,255,.14), rgba(63,47,238,.16)), url('../images/uiux-design.png'); background-size: cover; background-position: center; }
+.art--magenta { background-image: linear-gradient(135deg, rgba(18,12,42,.18), rgba(140,70,220,.22)), url('../images/mobile-experience.png'); background-size: cover; background-position: center; }
+.art--sunset { background-image: linear-gradient(135deg, rgba(255,246,230,.08), rgba(63,47,238,.14)), url('../images/wordpress-content.png'); background-size: cover; background-position: center; }
+.art--ember { background-image: linear-gradient(135deg, rgba(5,16,54,.12), rgba(20,81,195,.2)), url('../images/python-api.png'); background-size: cover; background-position: center; }
+.art--lime { background-image: linear-gradient(135deg, rgba(235,254,91,.08), rgba(63,47,238,.18)), url('../images/qa-performance.png'); background-size: cover; background-position: center; }
 .art__label { position: absolute; left: 20px; bottom: 18px; z-index: 1; font-size: var(--fs-xs); font-weight: 600; color: rgba(255, 255, 255, .82); letter-spacing: .04em; }
 .art--grey .art__label, .art--yellow .art__label, .art--lime .art__label { color: rgba(0, 0, 0, .55); }
 
