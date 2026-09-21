@@ -1,8 +1,0 @@
-.git
-node_modules
-data/runtime
-.env
-.env.*
-test-output
-test
-*.log

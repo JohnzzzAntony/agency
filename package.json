@@ -2,9 +2,12 @@
   "name": "duoonex-site-cms",
   "version": "1.0.0",
   "private": true,
-  "description": "DuooNex static frontend with a lightweight content management backend",
+  "description": "DuooNex static website with GitHub-connected Pages CMS editing",
   "scripts": {
-    "start": "node server.js",
+    "start": "npm run build && npm run preview",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/preview.js",
+    "init-content": "node scripts/init-content.js",
     "test": "node --test test/*.test.js"
   },
   "engines": {
@@ -12,5 +15,8 @@
   },
   "dependencies": {
     "cheerio": "^1.2.0"
+  },
+  "devDependencies": {
+    "yaml": "^2.9.1"
   }
 }

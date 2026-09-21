@@ -1,66 +1,66 @@
-# DuooNex website manager
+# DuooNex — static website + hosted CMS
 
-The existing HTML, CSS and browser JavaScript remain the frontend. The Node backend renders published edits into all 80 existing pages before sending HTML, including SEO metadata. No client-side content fetch is needed. All existing main pages, service pages, locations, case studies, blog posts and the legacy portfolio page are indexed automatically. Sitemap and robots endpoints are generated using the request domain.
+The application backend has been replaced with **Pages CMS**, a hosted editor connected to GitHub. The deployed website is ordinary HTML, CSS, JavaScript and images. There is no application server, database, admin password, writable volume or Docker service to maintain.
 
-## Local startup
+Node.js runs only during builds (locally or on the hosting provider). Visitors receive prebuilt static files. The optional local preview command is a read-only development file server, not a production backend.
 
-Install Node.js 24, then run from the project directory in PowerShell:
+## Finish the one-time account setup
 
-```powershell
-npm ci
-$env:CMS_ADMIN_TOKEN = node -e "process.stdout.write(require('crypto').randomBytes(32).toString('hex'))"
-# Store the generated value securely; use it as the admin password.
-$env:CMS_ADMIN_TOKEN
-npm start
-```
+1. Open **https://app.pagescms.org/** and sign in with your GitHub account.
+2. Install/authorize the Pages CMS GitHub App for **JohnzzzAntony/agency**. This account authorization must be completed by the repository owner; it cannot be included in the code.
+3. Select the repository and the **main** branch. The committed `.pages.yml` supplies the editor configuration.
+4. Configure one static hosting option below. Saving content commits to GitHub; the hosting build then updates the live site.
 
-Website: http://localhost:3000/ · Admin: http://localhost:3000/admin/
+The website's `/admin/` page links to the hosted editor. The previous local preview password no longer applies. The local admin dashboard, private drafts and enquiry inbox are retired; editing, authentication and revision history now use the hosted CMS/GitHub workflow.
 
-Use your generated secret to sign in. The server refuses to start without a secret of at least 32 characters. No default credential ships. Sessions expire after eight hours and on restart. Passwords are never stored in browser storage. Changing the secret and restarting invalidates sessions.
+## Editing all 80 pages
 
-## Editing
+Open **Website pages**, find a page by title/path, then expand a section. Text/headings, image pickers, links, metadata, form labels, navigation and footer copies are editable. Image uploads are stored in `assets/images/` in GitHub. The original frontend stack, section structure and styles are preserved.
 
-1. Select a page. Search by title or URL.
-2. Filter fields by section or type. Edit headings, paragraphs, buttons, links, navigation, footer, contact details, form labels/options, pricing values, accessibility labels, images or SEO fields. Nested text runs are separate fields so styled headings and icons retain their layout. Navigation/footer copies are editable on each page.
-3. Image fields include existing `<img>` elements and CSS background artwork. Choose an image from the media library or upload PNG, JPEG, WebP or GIF (8 MB maximum). Uploads use generated filenames. Add alt text through the corresponding detail field when applicable.
-4. Save draft. Preview draft and click a content element to locate its editor field. Preview does not send enquiries. Drafts are visible only to signed-in administrators.
-5. Publish page. Visitors and search engines receive the updated HTML immediately. Changes survive restarts.
+Keep the existing section and field lists intact. IDs and template fingerprints are hidden/read-only; they connect each field to the original layout. The build rejects missing fields, invalid URLs and template mismatches rather than publishing misplaced content. Styled headings have separate text runs to preserve their original spans.
 
-Version history keeps 20 prior published versions per page. Restore a version or the original content as a draft, then publish. Concurrent edits are rejected instead of silently overwriting someone else's changes. Code changes to a source template trigger a fingerprint check; export a backup and reset that page before applying new edits. The original HTML files are never overwritten by the CMS.
+**Save commits your edit**. With automatic deployment enabled, it becomes live after a successful build. This is not the old local draft/publish flow. For staged changes, edit on a separate GitHub branch, review the build artifact, and merge when ready. Revert a Git commit to restore an earlier version. Navigation/footer copies remain separately editable on each page.
 
-The enquiry inbox stores real website form submissions. No email delivery service is configured. Read and delete enquiries in the admin panel.
+## GitHub Pages hosting
 
-## Production deployment
+The included workflow builds and tests on pushes to `main` and on pull requests. Deployment stays off until explicitly enabled, so adding this code alone does not publish a new public site.
 
-Use a persistent Node.js server or Docker host with HTTPS. GitHub Pages and static-only hosting cannot run this backend. Run one application instance per data volume; this JSON store is designed for a single agency website, not multiple concurrent application replicas.
+1. Repository **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. In **Settings → Secrets and variables → Actions → Variables**, set:
+   - `ENABLE_PAGES_DEPLOYMENT` = `true`
+   - `SITE_URL` = the exact URL shown in GitHub's Pages settings (normally `https://johnzzzantony.github.io/agency/`).
+3. Run **Build and publish static website** from Actions, or push a change.
 
-Configure:
+Use the actual live address shown by your hosting provider. No purchased domain is required. The build creates canonical URLs and a sitemap when a site URL is configured. `SITE_URL` overrides the Website settings value; leave the Actions variable unset if you prefer to manage the URL through the CMS.
 
-| Variable | Value |
-| --- | --- |
-| `CMS_ADMIN_TOKEN` | Random secret, 32+ characters; configure through host secret settings |
-| `NODE_ENV` | `production` (Secure session cookies require HTTPS) |
-| `CMS_DATA_DIR` | Absolute persistent directory, e.g. `/data` |
-| `PORT` | Provider port or `3000` |
+## Other static hosting
 
-Build command: `npm ci --omit=dev`. Start command: `npm start`. Health endpoint: `/api/health`. Terminate HTTPS at the hosting proxy and preserve the original Host header. Local HTTP testing uses non-production mode. `.env.example` documents variables; environment files are not automatically loaded.
+Connect this GitHub repository to a static hosting provider. Use Node.js 24, build command **`npm run build`**, and output/publish directory **`dist`**. `netlify.toml` already specifies these values for Netlify. Configure the real website URL in CMS Website settings or through `SITE_URL` in the build environment. GitHub Pages deployment can remain disabled.
 
-Docker example (set the secret in your shell first):
+For manual hosting, run `npm ci` then `npm run build` and upload **only `dist/`**. Do not upload the entire repository. Images and links use relative paths, so root domains and project subfolders both work.
+
+## Contact forms
+
+Without a hosted form endpoint, submitting the form opens an email draft addressed to the email in **Website settings**. It clearly asks the visitor to send that draft; it does not claim the message was submitted.
+
+For direct submissions, create a hosted form (for example Formspree) and paste its HTTPS endpoint into **Website settings → Hosted contact form endpoint**. The provider must accept cross-origin JSON POST requests. Its dashboard/email handles enquiries; the website no longer stores a private inbox. No form-service account has been created or activated by this migration.
+
+## Build and preview locally
 
 ```sh
-docker build -t duoonex .
-docker volume create duoonex-data
-docker run -d --name duoonex --restart unless-stopped -p 127.0.0.1:3000:3000 --env CMS_ADMIN_TOKEN -v duoonex-data:/data duoonex
+npm ci
+npm test
+npm run build
 ```
 
-Place an HTTPS reverse proxy in front of port 3000. The container runs as the unprivileged `node` user. A bind-mounted directory must be writable by that user. Do not deploy multiple replicas against the same directory.
+Open `dist/index.html` directly in your browser, or run `npm run preview` for the optional local HTTP preview at http://127.0.0.1:3000/. You can upload this same `dist/` directory to any static host. No ongoing Node process is needed in production.
 
-## Backups and restore
+`npm run init-content` seeds missing editable records from source HTML; it never overwrites existing records. Do not run it as part of hosting builds. If a developer changes an HTML template's structure, migrate that page's stored content and fingerprint deliberately so existing edits are preserved.
 
-Back up the entire `CMS_DATA_DIR` directory (content database and `uploads/`) while the application is stopped, or use a consistent volume snapshot. The admin Export content backup action downloads the JSON database; it does not include image binaries. Protect backups because they contain enquiries.
+## Migration and verification
 
-To restore, stop the server, restore `cms.json` and `uploads/` to `CMS_DATA_DIR`, restore ownership, then start it. Keep a copy of the matching source code revision because field IDs follow the source templates. The old prototype `data/site-content.json` is no longer used; the new CMS starts from the actual existing website content.
+Content is stored in `content/pages/*.json`; shared deployment/form settings are in `content/settings.json`. The old `data/site-content.json` prototype is unused. Any previous local `data/runtime/` files remain untouched and ignored by Git; export/migrate them separately if they contain edits or enquiries. No old runtime records were present in this workspace during this migration.
 
-## Verification
+Tests cover all 80 page mappings, preserved markup, edited text/images/SEO, unsafe URLs, relative assets, build output isolation and generated sitemap. The hosted CMS login and live deployment require the account setup above; they cannot be validated without your GitHub authorization.
 
-`npm test` checks full-page field coverage, preserved markup, safe rendering, protected writes, draft/publish visibility, image uploads, restart persistence, private-file blocking, concurrent edit protection and enquiry storage. No deployment has been made by creating this code; configure your host and persistent storage before going live.
+Official setup references: [Pages CMS quick start](https://pagescms.org/docs/quick-start/), [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).

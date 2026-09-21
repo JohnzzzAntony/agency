@@ -1,0 +1,103 @@
+media:
+  input: assets/images
+  output: /assets/images
+  categories: [image]
+  rename: safe
+content:
+  - name: settings
+    label: Website settings
+    type: file
+    path: content/settings.json
+    format: json
+    operations: {delete: false}
+    fields:
+      - name: siteUrl
+        label: Website address
+        type: string
+        description: "Full HTTPS address including any subfolder. Leave empty until hosting is configured."
+      - name: contactEmail
+        label: Enquiry email address
+        type: string
+        required: true
+      - name: formEndpoint
+        label: Hosted contact form endpoint (optional)
+        type: string
+        description: "An HTTPS form endpoint accepting JSON, such as your Formspree form URL. Without this, the form opens an email draft for the visitor to send."
+  - name: pages
+    label: Website pages
+    type: collection
+    path: content/pages
+    format: json
+    operations: {create: false, rename: false, delete: false}
+    view:
+      primary: title
+      fields: [title, path]
+      search: [title, path]
+      sort: [title, path]
+      default: {sort: path, order: asc}
+    fields:
+      - name: title
+        label: Page name in the editor
+        type: string
+        readonly: true
+      - name: path
+        type: string
+        readonly: true
+        hidden: true
+      - name: fingerprint
+        type: string
+        readonly: true
+        hidden: true
+      - name: sections
+        label: Page sections
+        type: object
+        description: "Expand a section to edit its text, images and details. Keep the existing sections and fields; they map to the current design. Save commits the change to GitHub."
+        list:
+          collapsible: {collapsed: true, summary: "{fields.label}"}
+        fields:
+          - name: label
+            label: Section
+            type: string
+            readonly: true
+          - name: text
+            label: Text and headings
+            component: textFields
+          - name: images
+            label: Images
+            component: imageFields
+          - name: details
+            label: Links, SEO and other details
+            component: detailFields
+          - name: structuredData
+            label: Structured data
+            component: textFields
+components:
+  textFields:
+    type: object
+    list:
+      collapsible: {collapsed: true, summary: "{fields.label}"}
+    fields:
+      - {name: id, type: string, hidden: true, readonly: true}
+      - {name: label, label: Field, type: string, readonly: true}
+      - {name: value, label: Content, type: text}
+  imageFields:
+    type: object
+    list:
+      collapsible: {collapsed: true, summary: "{fields.label}"}
+    fields:
+      - {name: id, type: string, hidden: true, readonly: true}
+      - {name: label, label: Image position, type: string, readonly: true}
+      - name: value
+        label: Image
+        type: image
+        options:
+          extensions: [png, jpg, jpeg, webp, gif, avif, svg]
+          rename: safe
+  detailFields:
+    type: object
+    list:
+      collapsible: {collapsed: true, summary: "{fields.label}"}
+    fields:
+      - {name: id, type: string, hidden: true, readonly: true}
+      - {name: label, label: Field, type: string, readonly: true}
+      - {name: value, label: Value, type: text}

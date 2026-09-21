@@ -1,0 +1,5435 @@
+{
+  "title": "Web Development Portfolio Dubai | DuooNex",
+  "path": "CODEINE_Portfolio.html",
+  "fingerprint": "65729b94e5ea0ddaa27296d57233510f45965eda6ba1e5309d99caa310248b1d",
+  "sections": [
+    {
+      "label": "SEO",
+      "text": [
+        {
+          "id": "f0",
+          "label": "title · Web Development Portfolio Dubai | DuooNex",
+          "value": "Web Development Portfolio Dubai | DuooNex"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f1",
+          "label": "description · content",
+          "value": "Explore DuooNex’s approach to Shopify stores, e-commerce experiences and custom web applications."
+        },
+        {
+          "id": "f2",
+          "label": "keywords · content",
+          "value": "DuooNex, Shopify development Dubai, e-commerce development UAE, custom web development, UI/UX design Dubai"
+        },
+        {
+          "id": "f3",
+          "label": "og:site_name · content",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f4",
+          "label": "og:type · content",
+          "value": "website"
+        },
+        {
+          "id": "f5",
+          "label": "og:title · content",
+          "value": "Web Development Portfolio Dubai | DuooNex"
+        },
+        {
+          "id": "f6",
+          "label": "og:description · content",
+          "value": "Explore DuooNex’s approach to Shopify stores, e-commerce experiences and custom web applications."
+        },
+        {
+          "id": "f7",
+          "label": "twitter:card · content",
+          "value": "summary"
+        },
+        {
+          "id": "f8",
+          "label": "twitter:title · content",
+          "value": "Web Development Portfolio Dubai | DuooNex"
+        },
+        {
+          "id": "f9",
+          "label": "twitter:description · content",
+          "value": "Explore DuooNex’s approach to Shopify stores, e-commerce experiences and custom web applications."
+        },
+        {
+          "id": "f10",
+          "label": "robots · content",
+          "value": "noindex, follow"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Navigation",
+      "text": [
+        {
+          "id": "f16",
+          "label": "a · Services",
+          "value": "Services "
+        },
+        {
+          "id": "f18",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f20",
+          "label": "a · Packages",
+          "value": "Packages"
+        },
+        {
+          "id": "f22",
+          "label": "a · Client feedback",
+          "value": "Client feedback"
+        },
+        {
+          "id": "f24",
+          "label": "a · Startups & Businesses",
+          "value": "Startups & Businesses"
+        },
+        {
+          "id": "f26",
+          "label": "a · About DuooNex",
+          "value": "About DuooNex"
+        },
+        {
+          "id": "f28",
+          "label": "a · Start a project",
+          "value": "Start a project "
+        },
+        {
+          "id": "f30",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f32",
+          "label": "div · 01",
+          "value": "01"
+        },
+        {
+          "id": "f33",
+          "label": "div · THINK",
+          "value": "THINK"
+        },
+        {
+          "id": "f34",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f36",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f38",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f40",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f42",
+          "label": "a · WordPress Development",
+          "value": "WordPress Development"
+        },
+        {
+          "id": "f44",
+          "label": "div · 02",
+          "value": "02"
+        },
+        {
+          "id": "f45",
+          "label": "div · DESIGN",
+          "value": "DESIGN"
+        },
+        {
+          "id": "f46",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f48",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f50",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f52",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f54",
+          "label": "a · E-commerce Integrations",
+          "value": "E-commerce Integrations"
+        },
+        {
+          "id": "f56",
+          "label": "div · 03",
+          "value": "03"
+        },
+        {
+          "id": "f57",
+          "label": "div · SHIP",
+          "value": "SHIP"
+        },
+        {
+          "id": "f58",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f60",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f62",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f64",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f66",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f68",
+          "label": "div · 04",
+          "value": "04"
+        },
+        {
+          "id": "f69",
+          "label": "div · SCALE",
+          "value": "SCALE"
+        },
+        {
+          "id": "f70",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f72",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f74",
+          "label": "a · AMC & Ongoing Support",
+          "value": "AMC & Ongoing Support"
+        },
+        {
+          "id": "f76",
+          "label": "strong · Have a project in mind?",
+          "value": "Have a project in mind?"
+        },
+        {
+          "id": "f77",
+          "label": "p · Tell us what you want to build and we will turn it into a clear develo",
+          "value": "Tell us what you want to build and we will turn it into a clear development plan."
+        },
+        {
+          "id": "f78",
+          "label": "a · Start a project",
+          "value": "Start a project "
+        },
+        {
+          "id": "f80",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f81",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f83",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f84",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f86",
+          "label": "span · W",
+          "value": "W"
+        },
+        {
+          "id": "f87",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f89",
+          "label": "span · P",
+          "value": "P"
+        },
+        {
+          "id": "f90",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f92",
+          "label": "span · S",
+          "value": "S"
+        },
+        {
+          "id": "f93",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f95",
+          "label": "span · B",
+          "value": "B"
+        },
+        {
+          "id": "f96",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f98",
+          "label": "span · L",
+          "value": "L"
+        },
+        {
+          "id": "f99",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f101",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f102",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f104",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f105",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f107",
+          "label": "span · M",
+          "value": "M"
+        },
+        {
+          "id": "f108",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f110",
+          "label": "span · D",
+          "value": "D"
+        },
+        {
+          "id": "f111",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f113",
+          "label": "span · W",
+          "value": "W"
+        },
+        {
+          "id": "f114",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f116",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f117",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f119",
+          "label": "span · M",
+          "value": "M"
+        },
+        {
+          "id": "f120",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f122",
+          "label": "span · A",
+          "value": "A"
+        },
+        {
+          "id": "f124",
+          "label": "a · Services",
+          "value": "Services"
+        },
+        {
+          "id": "f126",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f128",
+          "label": "a · Packages",
+          "value": "Packages"
+        },
+        {
+          "id": "f130",
+          "label": "a · Client feedback",
+          "value": "Client feedback"
+        },
+        {
+          "id": "f132",
+          "label": "a · Startups & Businesses",
+          "value": "Startups & Businesses"
+        },
+        {
+          "id": "f134",
+          "label": "a · About DuooNex",
+          "value": "About DuooNex"
+        },
+        {
+          "id": "f136",
+          "label": "a · Contact us",
+          "value": "Contact us"
+        },
+        {
+          "id": "f138",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f140",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f142",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f144",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f146",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f148",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f150",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f152",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f154",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f156",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f158",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f160",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f162",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f164",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        }
+      ],
+      "images": [
+        {
+          "id": "f13",
+          "label": "logo__img · src",
+          "value": "/assets/images/duoonex-logo.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f11",
+          "label": "logo · href",
+          "value": "index.html"
+        },
+        {
+          "id": "f12",
+          "label": "logo · aria-label",
+          "value": "DuooNex home"
+        },
+        {
+          "id": "f14",
+          "label": "logo__img · alt",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f15",
+          "label": "Services Projects Packages Client feedback Startups & Businesses  · aria-label",
+          "value": "Primary"
+        },
+        {
+          "id": "f17",
+          "label": "Services · href",
+          "value": "services/index.html"
+        },
+        {
+          "id": "f19",
+          "label": "Projects · href",
+          "value": "case-studies/index.html"
+        },
+        {
+          "id": "f21",
+          "label": "Packages · href",
+          "value": "subscription/index.html"
+        },
+        {
+          "id": "f23",
+          "label": "Client feedback · href",
+          "value": "testimonials/index.html"
+        },
+        {
+          "id": "f25",
+          "label": "Startups & Businesses · href",
+          "value": "startups/index.html"
+        },
+        {
+          "id": "f27",
+          "label": "About DuooNex · href",
+          "value": "about/index.html"
+        },
+        {
+          "id": "f29",
+          "label": "Start a project → · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f31",
+          "label": "burger · aria-label",
+          "value": "Menu"
+        },
+        {
+          "id": "f35",
+          "label": "E-commerce UX Research · href",
+          "value": "services/ux-research/index.html"
+        },
+        {
+          "id": "f37",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "services/ux-audit/index.html"
+        },
+        {
+          "id": "f39",
+          "label": "QA & Launch Testing · href",
+          "value": "services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f41",
+          "label": "E-commerce Development · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f43",
+          "label": "WordPress Development · href",
+          "value": "services/law-firm-web-design-development/index.html"
+        },
+        {
+          "id": "f47",
+          "label": "UI/UX Design · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f49",
+          "label": "SaaS Interface Design · href",
+          "value": "services/saas-design/index.html"
+        },
+        {
+          "id": "f51",
+          "label": "Custom Web Development · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f53",
+          "label": "Mobile E-commerce UX · href",
+          "value": "services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f55",
+          "label": "E-commerce Integrations · href",
+          "value": "services/ui-ux-design-for-ai-based-products/index.html"
+        },
+        {
+          "id": "f59",
+          "label": "Shopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f61",
+          "label": "MVP Development · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f63",
+          "label": "React & Next.js Development · href",
+          "value": "services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f65",
+          "label": "Custom Web Applications · href",
+          "value": "services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f67",
+          "label": "Python & Django Development · href",
+          "value": "services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f71",
+          "label": "Conversion Rate Optimization · href",
+          "value": "services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f73",
+          "label": "Website Strategy · href",
+          "value": "services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f75",
+          "label": "AMC & Ongoing Support · href",
+          "value": "subscription/index.html"
+        },
+        {
+          "id": "f79",
+          "label": "Start a project → · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f82",
+          "label": "UUI/UX Design · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f85",
+          "label": "WCustom Web Development · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f88",
+          "label": "PFigma to Website · href",
+          "value": "services/digital-product-design/index.html"
+        },
+        {
+          "id": "f91",
+          "label": "SSaaS Interface Design · href",
+          "value": "services/saas-design/index.html"
+        },
+        {
+          "id": "f94",
+          "label": "BE-commerce Development · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f97",
+          "label": "LLanding Page Development · href",
+          "value": "services/landing-page-design/index.html"
+        },
+        {
+          "id": "f100",
+          "label": "UWebsite Strategy · href",
+          "value": "services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f103",
+          "label": "UWebsite Redesign & UX Audit · href",
+          "value": "services/ux-audit/index.html"
+        },
+        {
+          "id": "f106",
+          "label": "MMobile E-commerce UX · href",
+          "value": "services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f109",
+          "label": "DDesign Systems · href",
+          "value": "services/design-systems/index.html"
+        },
+        {
+          "id": "f112",
+          "label": "WShopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f115",
+          "label": "UE-commerce UX Research · href",
+          "value": "services/ux-research/index.html"
+        },
+        {
+          "id": "f118",
+          "label": "MMVP Development · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f121",
+          "label": "APython & Django Development · href",
+          "value": "services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f123",
+          "label": "Services Projects Packages Client feedback Startups & Businesses  · aria-label",
+          "value": "Mobile"
+        },
+        {
+          "id": "f125",
+          "label": "Services · href",
+          "value": "services/index.html"
+        },
+        {
+          "id": "f127",
+          "label": "Projects · href",
+          "value": "case-studies/index.html"
+        },
+        {
+          "id": "f129",
+          "label": "Packages · href",
+          "value": "subscription/index.html"
+        },
+        {
+          "id": "f131",
+          "label": "Client feedback · href",
+          "value": "testimonials/index.html"
+        },
+        {
+          "id": "f133",
+          "label": "Startups & Businesses · href",
+          "value": "startups/index.html"
+        },
+        {
+          "id": "f135",
+          "label": "About DuooNex · href",
+          "value": "about/index.html"
+        },
+        {
+          "id": "f137",
+          "label": "Contact us · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f139",
+          "label": "UI/UX Design · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f141",
+          "label": "Custom Web Development · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f143",
+          "label": "Figma to Website · href",
+          "value": "services/digital-product-design/index.html"
+        },
+        {
+          "id": "f145",
+          "label": "SaaS Interface Design · href",
+          "value": "services/saas-design/index.html"
+        },
+        {
+          "id": "f147",
+          "label": "E-commerce Development · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f149",
+          "label": "Landing Page Development · href",
+          "value": "services/landing-page-design/index.html"
+        },
+        {
+          "id": "f151",
+          "label": "Website Strategy · href",
+          "value": "services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f153",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "services/ux-audit/index.html"
+        },
+        {
+          "id": "f155",
+          "label": "Mobile E-commerce UX · href",
+          "value": "services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f157",
+          "label": "Design Systems · href",
+          "value": "services/design-systems/index.html"
+        },
+        {
+          "id": "f159",
+          "label": "Shopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f161",
+          "label": "E-commerce UX Research · href",
+          "value": "services/ux-research/index.html"
+        },
+        {
+          "id": "f163",
+          "label": "MVP Development · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f165",
+          "label": "Python & Django Development · href",
+          "value": "services/ai-mvp-development/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Websites and  digital products built for business.",
+      "text": [
+        {
+          "id": "f166",
+          "label": "span · DuooNex · Dubai, UAE",
+          "value": "DuooNex · Dubai, UAE"
+        },
+        {
+          "id": "f167",
+          "label": "h1 · Websites",
+          "value": "Websites "
+        },
+        {
+          "id": "f168",
+          "label": "h1 · built for business.",
+          "value": "built for business."
+        },
+        {
+          "id": "f169",
+          "label": "span · and",
+          "value": "and "
+        },
+        {
+          "id": "f170",
+          "label": "span · digital products",
+          "value": "digital products "
+        },
+        {
+          "id": "f171",
+          "label": "a · Start a project",
+          "value": "Start a project "
+        },
+        {
+          "id": "f173",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f174",
+          "label": "a · View our work",
+          "value": "View our work"
+        },
+        {
+          "id": "f176",
+          "label": "p · Explore DuooNex’s approach to Shopify stores, e-commerce experiences a",
+          "value": "Explore DuooNex’s approach to Shopify stores, e-commerce experiences and custom web applications. Based in Dubai, we connect design, development, integrations, QA and deployment for UAE and international businesses."
+        },
+        {
+          "id": "f177",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f179",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f181",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f183",
+          "label": "div · in one workflow",
+          "value": "in one workflow"
+        },
+        {
+          "id": "f184",
+          "label": "strong · Design, development and launch",
+          "value": "Design, development and launch "
+        },
+        {
+          "id": "f185",
+          "label": "span · UAE",
+          "value": "UAE"
+        },
+        {
+          "id": "f186",
+          "label": "div · Design · Build · Test",
+          "value": "Design · Build · Test"
+        },
+        {
+          "id": "f188",
+          "label": "small · Dubai-based team",
+          "value": "Dubai-based team"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f172",
+          "label": "Start a project → · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f175",
+          "label": "View our work · href",
+          "value": "case-studies/index.html"
+        },
+        {
+          "id": "f178",
+          "label": "DN · title",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f180",
+          "label": "DN · title",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f182",
+          "label": "DN · title",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f187",
+          "label": "Design · Build · Test · aria-label",
+          "value": "Design, development and testing"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "section section--tight brands",
+      "text": [
+        {
+          "id": "f189",
+          "label": "p · / Technologies and capabilities",
+          "value": "/ Technologies and capabilities"
+        },
+        {
+          "id": "f190",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f192",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f194",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f196",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f198",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f200",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f202",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f204",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f206",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f208",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f210",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f212",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f214",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f216",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f218",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f220",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f222",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f224",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f226",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f228",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f230",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f232",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f234",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f236",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f238",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f240",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f242",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f244",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f246",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f248",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f250",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f252",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f254",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f256",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f258",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f260",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f262",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f264",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f266",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f268",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f270",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f272",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f274",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f276",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f278",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f280",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f282",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f284",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f286",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f288",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f290",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f292",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f294",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f296",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f298",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f300",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f302",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f304",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f306",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f308",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f310",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f312",
+          "label": "span · Liquid",
+          "value": "Liquid"
+        },
+        {
+          "id": "f314",
+          "label": "span · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f316",
+          "label": "span · React",
+          "value": "React"
+        },
+        {
+          "id": "f318",
+          "label": "span · Next.js",
+          "value": "Next.js"
+        },
+        {
+          "id": "f320",
+          "label": "span · Python",
+          "value": "Python"
+        },
+        {
+          "id": "f322",
+          "label": "span · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f324",
+          "label": "span · WordPress",
+          "value": "WordPress"
+        },
+        {
+          "id": "f326",
+          "label": "span · JavaScript",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f328",
+          "label": "span · REST APIs",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f330",
+          "label": "span · PostgreSQL",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f332",
+          "label": "span · Technical SEO",
+          "value": "Technical SEO"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f191",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f193",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f195",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f197",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f199",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f201",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f203",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f205",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f207",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f209",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f211",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f213",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f215",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f217",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f219",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f221",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f223",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f225",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f227",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f229",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f231",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f233",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f235",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f237",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f239",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f241",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f243",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f245",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f247",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f249",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f251",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f253",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f255",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f257",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f259",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f261",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f263",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f265",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f267",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f269",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f271",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f273",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f275",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f277",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f279",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f281",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f283",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f285",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f287",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f289",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f291",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f293",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f295",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f297",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f299",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f301",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f303",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f305",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f307",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f309",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        },
+        {
+          "id": "f311",
+          "label": "Shopify · aria-label",
+          "value": "Shopify"
+        },
+        {
+          "id": "f313",
+          "label": "Liquid · aria-label",
+          "value": "Liquid"
+        },
+        {
+          "id": "f315",
+          "label": "Figma · aria-label",
+          "value": "Figma"
+        },
+        {
+          "id": "f317",
+          "label": "React · aria-label",
+          "value": "React"
+        },
+        {
+          "id": "f319",
+          "label": "Next.js · aria-label",
+          "value": "Next.js"
+        },
+        {
+          "id": "f321",
+          "label": "Python · aria-label",
+          "value": "Python"
+        },
+        {
+          "id": "f323",
+          "label": "Django · aria-label",
+          "value": "Django"
+        },
+        {
+          "id": "f325",
+          "label": "WordPress · aria-label",
+          "value": "WordPress"
+        },
+        {
+          "id": "f327",
+          "label": "JavaScript · aria-label",
+          "value": "JavaScript"
+        },
+        {
+          "id": "f329",
+          "label": "REST APIs · aria-label",
+          "value": "REST APIs"
+        },
+        {
+          "id": "f331",
+          "label": "PostgreSQL · aria-label",
+          "value": "PostgreSQL"
+        },
+        {
+          "id": "f333",
+          "label": "Technical SEO · aria-label",
+          "value": "Technical SEO"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Built for the customer journey and the systems behind it",
+      "text": [
+        {
+          "id": "f334",
+          "label": "h2 · Built for the customer journey",
+          "value": "Built for the customer journey "
+        },
+        {
+          "id": "f335",
+          "label": "span · and the systems behind it",
+          "value": "and the systems behind it"
+        },
+        {
+          "id": "f336",
+          "label": "div · /01",
+          "value": "/01"
+        },
+        {
+          "id": "f337",
+          "label": "div · UX",
+          "value": "UX"
+        },
+        {
+          "id": "f338",
+          "label": "div · Customer journeys",
+          "value": "Customer journeys "
+        },
+        {
+          "id": "f339",
+          "label": "div · designed for clarity",
+          "value": "designed for clarity"
+        },
+        {
+          "id": "f340",
+          "label": "div · /02",
+          "value": "/02"
+        },
+        {
+          "id": "f341",
+          "label": "div · Build",
+          "value": "Build"
+        },
+        {
+          "id": "f342",
+          "label": "div · Custom development for",
+          "value": "Custom development for "
+        },
+        {
+          "id": "f343",
+          "label": "div · business workflows",
+          "value": "business workflows"
+        },
+        {
+          "id": "f344",
+          "label": "div · /03",
+          "value": "/03"
+        },
+        {
+          "id": "f345",
+          "label": "div · UAE",
+          "value": "UAE"
+        },
+        {
+          "id": "f346",
+          "label": "div · Dubai-based, serving businesses",
+          "value": "Dubai-based, serving businesses "
+        },
+        {
+          "id": "f347",
+          "label": "div · across the UAE",
+          "value": "across the UAE"
+        },
+        {
+          "id": "f348",
+          "label": "div · /04",
+          "value": "/04"
+        },
+        {
+          "id": "f349",
+          "label": "div · SEO",
+          "value": "SEO"
+        },
+        {
+          "id": "f350",
+          "label": "div · Search foundations and",
+          "value": "Search foundations and "
+        },
+        {
+          "id": "f351",
+          "label": "div · website performance",
+          "value": "website performance"
+        },
+        {
+          "id": "f352",
+          "label": "div · /05",
+          "value": "/05"
+        },
+        {
+          "id": "f353",
+          "label": "div · End to end",
+          "value": "End to end"
+        },
+        {
+          "id": "f354",
+          "label": "div · Strategy, design, development, QA",
+          "value": "Strategy, design, development, QA "
+        },
+        {
+          "id": "f355",
+          "label": "div · and launch",
+          "value": "and launch"
+        }
+      ],
+      "images": [],
+      "details": [],
+      "structuredData": []
+    },
+    {
+      "label": "E-commerce projects and product approaches",
+      "text": [
+        {
+          "id": "f356",
+          "label": "p · / Selected work",
+          "value": "/ Selected work"
+        },
+        {
+          "id": "f357",
+          "label": "h2 · E-commerce projects",
+          "value": "E-commerce projects "
+        },
+        {
+          "id": "f358",
+          "label": "span · and product approaches",
+          "value": "and product approaches"
+        },
+        {
+          "id": "f359",
+          "label": "a · Explore our work",
+          "value": "Explore our work "
+        },
+        {
+          "id": "f361",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f364",
+          "label": "div · Luxury Shopify storefront",
+          "value": "Luxury Shopify storefront"
+        },
+        {
+          "id": "f365",
+          "label": "div · Karji Perfumes",
+          "value": "Karji Perfumes"
+        },
+        {
+          "id": "f366",
+          "label": "p · A premium Shopify storefront for luxury fragrances, Swiss watches, acc",
+          "value": "A premium Shopify storefront for luxury fragrances, Swiss watches, accessories and lifestyle products."
+        },
+        {
+          "id": "f367",
+          "label": "div · Shopify",
+          "value": "Shopify "
+        },
+        {
+          "id": "f368",
+          "label": "small · Project focus",
+          "value": "Project focus"
+        },
+        {
+          "id": "f369",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f370",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f372",
+          "label": "span · Karji Perfumes",
+          "value": "Karji Perfumes"
+        },
+        {
+          "id": "f376",
+          "label": "span · Touch of Oud",
+          "value": "Touch of Oud"
+        },
+        {
+          "id": "f377",
+          "label": "div · Arabian fragrance e-commerce",
+          "value": "Arabian fragrance e-commerce"
+        },
+        {
+          "id": "f378",
+          "label": "div · Touch of Oud",
+          "value": "Touch of Oud"
+        },
+        {
+          "id": "f379",
+          "label": "p · A luxury e-commerce experience focused on Arabian oud, gifting, fragra",
+          "value": "A luxury e-commerce experience focused on Arabian oud, gifting, fragrance discovery and mobile-first shopping."
+        },
+        {
+          "id": "f380",
+          "label": "div · Shopify",
+          "value": "Shopify "
+        },
+        {
+          "id": "f381",
+          "label": "small · Project focus",
+          "value": "Project focus"
+        },
+        {
+          "id": "f382",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f383",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f387",
+          "label": "span · Flower District",
+          "value": "Flower District"
+        },
+        {
+          "id": "f388",
+          "label": "div · Floral and gifting e-commerce",
+          "value": "Floral and gifting e-commerce"
+        },
+        {
+          "id": "f389",
+          "label": "div · Flower District",
+          "value": "Flower District"
+        },
+        {
+          "id": "f390",
+          "label": "p · A floral and gifting storefront centered on delivery options, curated ",
+          "value": "A floral and gifting storefront centered on delivery options, curated products, seasonal gifting and a streamlined purchase journey."
+        },
+        {
+          "id": "f391",
+          "label": "div · Shopify",
+          "value": "Shopify "
+        },
+        {
+          "id": "f392",
+          "label": "small · Project focus",
+          "value": "Project focus"
+        },
+        {
+          "id": "f393",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f394",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f397",
+          "label": "div · Gourmet gifting e-commerce",
+          "value": "Gourmet gifting e-commerce"
+        },
+        {
+          "id": "f398",
+          "label": "div · Daima",
+          "value": "Daima"
+        },
+        {
+          "id": "f399",
+          "label": "p · An e-commerce platform for premium dates, chocolates, Arabic sweets, c",
+          "value": "An e-commerce platform for premium dates, chocolates, Arabic sweets, coffee, saffron and corporate gifting."
+        },
+        {
+          "id": "f400",
+          "label": "div · Shopify",
+          "value": "Shopify "
+        },
+        {
+          "id": "f401",
+          "label": "small · Project focus",
+          "value": "Project focus"
+        },
+        {
+          "id": "f402",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f403",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f405",
+          "label": "span · Daima",
+          "value": "Daima"
+        },
+        {
+          "id": "f409",
+          "label": "span · Delivery Workflow",
+          "value": "Delivery Workflow"
+        },
+        {
+          "id": "f410",
+          "label": "div · Illustrative commerce workflow",
+          "value": "Illustrative commerce workflow"
+        },
+        {
+          "id": "f411",
+          "label": "div · Delivery Workflow",
+          "value": "Delivery Workflow"
+        },
+        {
+          "id": "f412",
+          "label": "p · An illustrative approach to connecting delivery choices with a clear o",
+          "value": "An illustrative approach to connecting delivery choices with a clear online shopping journey."
+        },
+        {
+          "id": "f413",
+          "label": "div · Concept",
+          "value": "Concept "
+        },
+        {
+          "id": "f414",
+          "label": "small · Illustrative approach",
+          "value": "Illustrative approach"
+        },
+        {
+          "id": "f415",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f416",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f420",
+          "label": "span · Business Dashboard",
+          "value": "Business Dashboard"
+        },
+        {
+          "id": "f421",
+          "label": "div · Illustrative application brief",
+          "value": "Illustrative application brief"
+        },
+        {
+          "id": "f422",
+          "label": "div · Business Dashboard",
+          "value": "Business Dashboard"
+        },
+        {
+          "id": "f423",
+          "label": "p · An illustrative approach to a business dashboard that brings key opera",
+          "value": "An illustrative approach to a business dashboard that brings key operational records into one usable interface."
+        },
+        {
+          "id": "f424",
+          "label": "div · Concept",
+          "value": "Concept "
+        },
+        {
+          "id": "f425",
+          "label": "small · Illustrative approach",
+          "value": "Illustrative approach"
+        },
+        {
+          "id": "f426",
+          "label": "span · View project details",
+          "value": "View project details"
+        },
+        {
+          "id": "f427",
+          "label": "span · →",
+          "value": "→"
+        }
+      ],
+      "images": [
+        {
+          "id": "f371",
+          "label": "Karji Perfumes · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f375",
+          "label": "Touch of Oud · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f386",
+          "label": "Flower District · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f404",
+          "label": "Daima · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f408",
+          "label": "Delivery Workflow · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f419",
+          "label": "Business Dashboard · Background image",
+          "value": "/assets/images/python-api.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f360",
+          "label": "Explore our work → · href",
+          "value": "case-studies/index.html"
+        },
+        {
+          "id": "f362",
+          "label": "Luxury Shopify storefront Karji Perfumes A premium Shopify storef · href",
+          "value": "case-studies/kodezi/index.html"
+        },
+        {
+          "id": "f363",
+          "label": "Luxury Shopify storefront Karji Perfumes A premium Shopify storef · data-tags",
+          "value": "AI|B2B/B2C|SaaS|Websites"
+        },
+        {
+          "id": "f373",
+          "label": "Touch of Oud Arabian fragrance e-commerce Touch of Oud A luxury e · href",
+          "value": "case-studies/off-white/index.html"
+        },
+        {
+          "id": "f374",
+          "label": "Touch of Oud Arabian fragrance e-commerce Touch of Oud A luxury e · data-tags",
+          "value": "Websites|B2B/B2C"
+        },
+        {
+          "id": "f384",
+          "label": "Flower District Floral and gifting e-commerce Flower District A f · href",
+          "value": "case-studies/tournated/index.html"
+        },
+        {
+          "id": "f385",
+          "label": "Flower District Floral and gifting e-commerce Flower District A f · data-tags",
+          "value": "Websites|SaaS|B2B/B2C"
+        },
+        {
+          "id": "f395",
+          "label": "Gourmet gifting e-commerce Daima An e-commerce platform for premi · href",
+          "value": "case-studies/callai/index.html"
+        },
+        {
+          "id": "f396",
+          "label": "Gourmet gifting e-commerce Daima An e-commerce platform for premi · data-tags",
+          "value": "Websites|SaaS|B2B/B2C|AI"
+        },
+        {
+          "id": "f406",
+          "label": "Delivery Workflow Illustrative commerce workflow Delivery Workflo · href",
+          "value": "case-studies/rooda/index.html"
+        },
+        {
+          "id": "f407",
+          "label": "Delivery Workflow Illustrative commerce workflow Delivery Workflo · data-tags",
+          "value": "Mobile apps|B2B/B2C"
+        },
+        {
+          "id": "f417",
+          "label": "Business Dashboard Illustrative application brief Business Dashbo · href",
+          "value": "case-studies/spacebook/index.html"
+        },
+        {
+          "id": "f418",
+          "label": "Business Dashboard Illustrative application brief Business Dashbo · data-tags",
+          "value": "Websites|SaaS|B2B/B2C"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Clear commitments throughout your project",
+      "text": [
+        {
+          "id": "f428",
+          "label": "p · / Our project commitments",
+          "value": "/ Our project commitments"
+        },
+        {
+          "id": "f429",
+          "label": "h2 · Clear commitments",
+          "value": "Clear commitments "
+        },
+        {
+          "id": "f430",
+          "label": "span · throughout your project",
+          "value": "throughout your project"
+        },
+        {
+          "id": "f432",
+          "label": "p · Agree the pages, features and integrations before work begins. Changes",
+          "value": "Agree the pages, features and integrations before work begins. Changes can then be assessed against a shared plan."
+        },
+        {
+          "id": "f433",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f434",
+          "label": "span · Website & e-commerce project",
+          "value": "Website & e-commerce project"
+        },
+        {
+          "id": "f435",
+          "label": "span · ▶Learn more",
+          "value": "▶Learn more"
+        },
+        {
+          "id": "f437",
+          "label": "p · Carry the approved user journey into the implementation, with reusable",
+          "value": "Carry the approved user journey into the implementation, with reusable components and practical content editing."
+        },
+        {
+          "id": "f438",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f439",
+          "label": "span · Web application project",
+          "value": "Web application project"
+        },
+        {
+          "id": "f440",
+          "label": "span · ▶Learn more",
+          "value": "▶Learn more"
+        },
+        {
+          "id": "f442",
+          "label": "p · Review navigation, forms and purchase journeys on smaller screens usin",
+          "value": "Review navigation, forms and purchase journeys on smaller screens using realistic content."
+        },
+        {
+          "id": "f443",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f444",
+          "label": "span · Startup product build",
+          "value": "Startup product build"
+        },
+        {
+          "id": "f445",
+          "label": "span · ▶Learn more",
+          "value": "▶Learn more"
+        },
+        {
+          "id": "f620",
+          "label": "h2 · Clear commitments throughout your",
+          "value": "Clear commitments throughout your "
+        },
+        {
+          "id": "f621",
+          "label": "span · project",
+          "value": "project"
+        },
+        {
+          "id": "f622",
+          "label": "div · Care",
+          "value": "Care"
+        },
+        {
+          "id": "f623",
+          "label": "div · Design · Build · Test",
+          "value": "Design · Build · Test"
+        },
+        {
+          "id": "f625",
+          "label": "small · Built for speed & clarity",
+          "value": "Built for speed & clarity"
+        },
+        {
+          "id": "f626",
+          "label": "span · Websites",
+          "value": "Websites"
+        },
+        {
+          "id": "f627",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f628",
+          "label": "span · Software",
+          "value": "Software"
+        },
+        {
+          "id": "f629",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f630",
+          "label": "p · Agree the pages, features and integrations before work begins. Changes",
+          "value": "Agree the pages, features and integrations before work begins. Changes can then be assessed against a shared plan."
+        },
+        {
+          "id": "f631",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f632",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f633",
+          "label": "span · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f634",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f635",
+          "label": "p · Carry the approved user journey into the implementation, with reusable",
+          "value": "Carry the approved user journey into the implementation, with reusable components and practical content editing."
+        },
+        {
+          "id": "f636",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f637",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f638",
+          "label": "span · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f639",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f640",
+          "label": "p · Review navigation, forms and purchase journeys on smaller screens usin",
+          "value": "Review navigation, forms and purchase journeys on smaller screens using realistic content."
+        },
+        {
+          "id": "f641",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f642",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f643",
+          "label": "span · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f644",
+          "label": "div · Care",
+          "value": "Care"
+        },
+        {
+          "id": "f645",
+          "label": "div · Design · Build · Test",
+          "value": "Design · Build · Test"
+        },
+        {
+          "id": "f647",
+          "label": "small · Built for speed & clarity",
+          "value": "Built for speed & clarity"
+        },
+        {
+          "id": "f648",
+          "label": "span · Websites",
+          "value": "Websites"
+        },
+        {
+          "id": "f649",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f650",
+          "label": "span · Software",
+          "value": "Software"
+        },
+        {
+          "id": "f651",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f652",
+          "label": "p · Use clear headings, unique metadata, descriptive links and launch chec",
+          "value": "Use clear headings, unique metadata, descriptive links and launch checks to support discoverability."
+        },
+        {
+          "id": "f653",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f654",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f655",
+          "label": "span · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f656",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f657",
+          "label": "p · Document editing workflows, deployment details and maintenance respons",
+          "value": "Document editing workflows, deployment details and maintenance responsibilities so the next step is clear."
+        },
+        {
+          "id": "f658",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f659",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f660",
+          "label": "span · DuooNex&Development",
+          "value": "DuooNex&Development"
+        },
+        {
+          "id": "f661",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f662",
+          "label": "p · Agree the pages, features and integrations before work begins. Changes",
+          "value": "Agree the pages, features and integrations before work begins. Changes can then be assessed against a shared plan."
+        },
+        {
+          "id": "f663",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f664",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f665",
+          "label": "span · DuooNex&Project team",
+          "value": "DuooNex&Project team"
+        },
+        {
+          "id": "f666",
+          "label": "div · Care",
+          "value": "Care"
+        },
+        {
+          "id": "f667",
+          "label": "div · Design · Build · Test",
+          "value": "Design · Build · Test"
+        },
+        {
+          "id": "f669",
+          "label": "small · Built for speed & clarity",
+          "value": "Built for speed & clarity"
+        },
+        {
+          "id": "f670",
+          "label": "span · Websites",
+          "value": "Websites"
+        },
+        {
+          "id": "f671",
+          "label": "span · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f672",
+          "label": "span · Software",
+          "value": "Software"
+        },
+        {
+          "id": "f673",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f674",
+          "label": "p · Carry the approved user journey into the implementation, with reusable",
+          "value": "Carry the approved user journey into the implementation, with reusable components and practical content editing."
+        },
+        {
+          "id": "f675",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f676",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f677",
+          "label": "span · DuooNex&Project team",
+          "value": "DuooNex&Project team"
+        },
+        {
+          "id": "f678",
+          "label": "div · DuooNex approach",
+          "value": "DuooNex approach"
+        },
+        {
+          "id": "f679",
+          "label": "p · Review navigation, forms and purchase journeys on smaller screens usin",
+          "value": "Review navigation, forms and purchase journeys on smaller screens using realistic content."
+        },
+        {
+          "id": "f680",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f681",
+          "label": "strong · DuooNex project team",
+          "value": "DuooNex project team"
+        },
+        {
+          "id": "f682",
+          "label": "span · DuooNex",
+          "value": "DuooNex"
+        }
+      ],
+      "images": [
+        {
+          "id": "f431",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f436",
+          "label": "art art--lime  · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f441",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f624",
+          "label": "Design · Build · Test · aria-label",
+          "value": "Design, development and testing"
+        },
+        {
+          "id": "f646",
+          "label": "Design · Build · Test · aria-label",
+          "value": "Design, development and testing"
+        },
+        {
+          "id": "f668",
+          "label": "Design · Build · Test · aria-label",
+          "value": "Design, development and testing"
+        },
+        {
+          "id": "f683",
+          "label": "button · aria-label",
+          "value": "Project commitments page 1"
+        },
+        {
+          "id": "f684",
+          "label": "button · aria-label",
+          "value": "Project commitments page 2"
+        },
+        {
+          "id": "f685",
+          "label": "button · aria-label",
+          "value": "Project commitments page 3"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "One team for Shopify, websites and applications",
+      "text": [
+        {
+          "id": "f446",
+          "label": "p · / What we do",
+          "value": "/ What we do"
+        },
+        {
+          "id": "f447",
+          "label": "h2 · One team for Shopify,",
+          "value": "One team for Shopify, "
+        },
+        {
+          "id": "f448",
+          "label": "span · websites and applications",
+          "value": "websites and applications"
+        },
+        {
+          "id": "f449",
+          "label": "h3 · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f450",
+          "label": "p · DuooNex builds e-commerce websites in Dubai for retailers, D2C brands ",
+          "value": "DuooNex builds e-commerce websites in Dubai for retailers, D2C brands and gifting businesses. Connect product catalogs, mobile shopping journeys, supported payments, shipping and inventory workflows in one practical online store."
+        },
+        {
+          "id": "f451",
+          "label": "li · Catalog architecture",
+          "value": "Catalog architecture"
+        },
+        {
+          "id": "f452",
+          "label": "li · Product discovery and filters",
+          "value": "Product discovery and filters"
+        },
+        {
+          "id": "f453",
+          "label": "li · Mobile product pages",
+          "value": "Mobile product pages"
+        },
+        {
+          "id": "f454",
+          "label": "li · Cart and checkout UX",
+          "value": "Cart and checkout UX"
+        },
+        {
+          "id": "f455",
+          "label": "li · Inventory and ERP connections",
+          "value": "Inventory and ERP connections"
+        },
+        {
+          "id": "f456",
+          "label": "li · E-commerce analytics",
+          "value": "E-commerce analytics"
+        },
+        {
+          "id": "f457",
+          "label": "a · Build your brand",
+          "value": "Build your brand "
+        },
+        {
+          "id": "f459",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f469",
+          "label": "h3 · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f470",
+          "label": "p · Make your website or digital product easier to understand and use. Duo",
+          "value": "Make your website or digital product easier to understand and use. DuooNex provides UI/UX design in Dubai, including user journeys, wireframes, responsive Figma interfaces and prototypes for e-commerce and business applications."
+        },
+        {
+          "id": "f471",
+          "label": "li · User journey mapping",
+          "value": "User journey mapping"
+        },
+        {
+          "id": "f472",
+          "label": "li · Figma wireframes",
+          "value": "Figma wireframes"
+        },
+        {
+          "id": "f473",
+          "label": "li · Responsive interface design",
+          "value": "Responsive interface design"
+        },
+        {
+          "id": "f474",
+          "label": "li · Interactive prototypes",
+          "value": "Interactive prototypes"
+        },
+        {
+          "id": "f475",
+          "label": "li · Reusable UI components",
+          "value": "Reusable UI components"
+        },
+        {
+          "id": "f476",
+          "label": "li · Developer-ready specifications",
+          "value": "Developer-ready specifications"
+        },
+        {
+          "id": "f477",
+          "label": "a · Design the experience",
+          "value": "Design the experience "
+        },
+        {
+          "id": "f479",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f489",
+          "label": "h3 · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f490",
+          "label": "p · DuooNex is a Dubai web development agency building custom business web",
+          "value": "DuooNex is a Dubai web development agency building custom business websites that explain your services and guide visitors toward enquiry. We connect responsive design, frontend development, content structure and technical SEO."
+        },
+        {
+          "id": "f491",
+          "label": "li · Website strategy",
+          "value": "Website strategy"
+        },
+        {
+          "id": "f492",
+          "label": "li · Responsive web design",
+          "value": "Responsive web design"
+        },
+        {
+          "id": "f493",
+          "label": "li · Custom frontend development",
+          "value": "Custom frontend development"
+        },
+        {
+          "id": "f494",
+          "label": "li · CMS and content editing",
+          "value": "CMS and content editing"
+        },
+        {
+          "id": "f495",
+          "label": "li · Forms and API integrations",
+          "value": "Forms and API integrations"
+        },
+        {
+          "id": "f496",
+          "label": "li · Technical SEO foundations",
+          "value": "Technical SEO foundations"
+        },
+        {
+          "id": "f497",
+          "label": "a · Build your website",
+          "value": "Build your website "
+        },
+        {
+          "id": "f499",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f509",
+          "label": "h3 · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f510",
+          "label": "p · Launch a focused first version of your product with DuooNex. We help D",
+          "value": "Launch a focused first version of your product with DuooNex. We help Dubai and UAE startups define essential features, design the user journey and build an MVP with testing and deployment planned from the start."
+        },
+        {
+          "id": "f511",
+          "label": "li · MVP scope planning",
+          "value": "MVP scope planning"
+        },
+        {
+          "id": "f512",
+          "label": "li · User flow prototypes",
+          "value": "User flow prototypes"
+        },
+        {
+          "id": "f513",
+          "label": "li · Core feature development",
+          "value": "Core feature development"
+        },
+        {
+          "id": "f514",
+          "label": "li · API integration",
+          "value": "API integration"
+        },
+        {
+          "id": "f515",
+          "label": "li · Functional testing",
+          "value": "Functional testing"
+        },
+        {
+          "id": "f516",
+          "label": "li · Launch and feedback planning",
+          "value": "Launch and feedback planning"
+        },
+        {
+          "id": "f517",
+          "label": "a · Start your MVP",
+          "value": "Start your MVP "
+        },
+        {
+          "id": "f519",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f529",
+          "label": "h3 · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f530",
+          "label": "p · Build a Shopify store that makes product discovery and buying straight",
+          "value": "Build a Shopify store that makes product discovery and buying straightforward. DuooNex develops custom storefronts for Dubai and UAE retailers, from Liquid sections and product metafields to payment, shipping and app integrations."
+        },
+        {
+          "id": "f531",
+          "label": "li · Shopify store setup",
+          "value": "Shopify store setup"
+        },
+        {
+          "id": "f532",
+          "label": "li · Liquid theme customization",
+          "value": "Liquid theme customization"
+        },
+        {
+          "id": "f533",
+          "label": "li · Product and collection templates",
+          "value": "Product and collection templates"
+        },
+        {
+          "id": "f534",
+          "label": "li · Store migration planning",
+          "value": "Store migration planning"
+        },
+        {
+          "id": "f535",
+          "label": "li · Payment and shipping integration",
+          "value": "Payment and shipping integration"
+        },
+        {
+          "id": "f536",
+          "label": "li · Shopify performance and SEO",
+          "value": "Shopify performance and SEO"
+        },
+        {
+          "id": "f537",
+          "label": "a · Launch your website",
+          "value": "Launch your website "
+        },
+        {
+          "id": "f539",
+          "label": "span · →",
+          "value": "→"
+        }
+      ],
+      "images": [
+        {
+          "id": "f460",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f461",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f462",
+          "label": "art art--sky · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f463",
+          "label": "art art--magenta · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f464",
+          "label": "art art--sunset · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f465",
+          "label": "art art--lime · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f466",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f467",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f468",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f480",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f481",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f482",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f483",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f484",
+          "label": "art art--sky · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f485",
+          "label": "art art--magenta · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f486",
+          "label": "art art--sunset · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f487",
+          "label": "art art--lime · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f488",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f500",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f501",
+          "label": "art art--sky · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f502",
+          "label": "art art--magenta · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f503",
+          "label": "art art--sunset · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f504",
+          "label": "art art--lime · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f505",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f506",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f507",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f508",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f520",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f521",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f522",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f523",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f524",
+          "label": "art art--sky · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f525",
+          "label": "art art--magenta · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f526",
+          "label": "art art--sunset · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f527",
+          "label": "art art--lime · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f528",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f540",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f541",
+          "label": "art art--grey · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f542",
+          "label": "art art--indigo · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f543",
+          "label": "art art--sky · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f544",
+          "label": "art art--magenta · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f545",
+          "label": "art art--sunset · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f546",
+          "label": "art art--lime · Background image",
+          "value": "/assets/images/qa-performance.png"
+        },
+        {
+          "id": "f547",
+          "label": "art art--ember · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f548",
+          "label": "art art--dark · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f458",
+          "label": "Build your brand → · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f478",
+          "label": "Design the experience → · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f498",
+          "label": "Build your website → · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f518",
+          "label": "Start your MVP → · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f538",
+          "label": "Launch your website → · href",
+          "value": "services/webflow/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Design and engineering, connected",
+      "text": [
+        {
+          "id": "f549",
+          "label": "span · Design and engineering,",
+          "value": "Design and engineering, "
+        },
+        {
+          "id": "f550",
+          "label": "span · connected",
+          "value": "connected"
+        },
+        {
+          "id": "f551",
+          "label": "span · 01",
+          "value": "01"
+        },
+        {
+          "id": "f552",
+          "label": "p · Figma interfaces and reusable components",
+          "value": "Figma interfaces and reusable components"
+        },
+        {
+          "id": "f553",
+          "label": "span · 02",
+          "value": "02"
+        },
+        {
+          "id": "f554",
+          "label": "p · Shopify and custom website development",
+          "value": "Shopify and custom website development"
+        },
+        {
+          "id": "f555",
+          "label": "span · 03",
+          "value": "03"
+        },
+        {
+          "id": "f556",
+          "label": "p · Mobile-first e-commerce journeys",
+          "value": "Mobile-first e-commerce journeys"
+        },
+        {
+          "id": "f557",
+          "label": "span · 04",
+          "value": "04"
+        },
+        {
+          "id": "f558",
+          "label": "p · Integrations, QA and production deployment",
+          "value": "Integrations, QA and production deployment"
+        }
+      ],
+      "images": [],
+      "details": [],
+      "structuredData": []
+    },
+    {
+      "label": "Websites shaped around your industry",
+      "text": [
+        {
+          "id": "f559",
+          "label": "p · / Industries we serve",
+          "value": "/ Industries we serve"
+        },
+        {
+          "id": "f560",
+          "label": "h2 · Websites shaped around",
+          "value": "Websites shaped around "
+        },
+        {
+          "id": "f561",
+          "label": "span · your industry",
+          "value": "your industry"
+        },
+        {
+          "id": "f562",
+          "label": "p · Whether you sell products, services, subscriptions, or software, DuooN",
+          "value": "Whether you sell products, services, subscriptions, or software, DuooNex builds digital experiences around your actual business workflow."
+        },
+        {
+          "id": "f563",
+          "label": "a · See our work",
+          "value": "See our work "
+        },
+        {
+          "id": "f565",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f567",
+          "label": "h3 · Retail & D2C",
+          "value": "Retail & D2C"
+        },
+        {
+          "id": "f568",
+          "label": "p · Product discovery, collections and mobile shopping journeys.",
+          "value": "Product discovery, collections and mobile shopping journeys."
+        },
+        {
+          "id": "f570",
+          "label": "h3 · Luxury & lifestyle",
+          "value": "Luxury & lifestyle"
+        },
+        {
+          "id": "f571",
+          "label": "p · Premium product storytelling for fragrance, fashion and accessories.",
+          "value": "Premium product storytelling for fragrance, fashion and accessories."
+        },
+        {
+          "id": "f573",
+          "label": "h3 · Food & gifting",
+          "value": "Food & gifting"
+        },
+        {
+          "id": "f574",
+          "label": "p · Seasonal collections, gifting content and delivery workflows.",
+          "value": "Seasonal collections, gifting content and delivery workflows."
+        },
+        {
+          "id": "f576",
+          "label": "h3 · Startups & SaaS",
+          "value": "Startups & SaaS"
+        },
+        {
+          "id": "f577",
+          "label": "p · MVP websites, dashboards, APIs and customer portals.",
+          "value": "MVP websites, dashboards, APIs and customer portals."
+        },
+        {
+          "id": "f579",
+          "label": "h3 · Corporate businesses",
+          "value": "Corporate businesses"
+        },
+        {
+          "id": "f580",
+          "label": "p · Service pages and clear paths to business enquiries.",
+          "value": "Service pages and clear paths to business enquiries."
+        },
+        {
+          "id": "f582",
+          "label": "h3 · Operations teams",
+          "value": "Operations teams"
+        },
+        {
+          "id": "f583",
+          "label": "p · Internal tools, integrations and practical reporting interfaces.",
+          "value": "Internal tools, integrations and practical reporting interfaces."
+        }
+      ],
+      "images": [
+        {
+          "id": "f566",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f569",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f572",
+          "label": "art art--magenta  · Background image",
+          "value": "/assets/images/mobile-experience.png"
+        },
+        {
+          "id": "f575",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f578",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f581",
+          "label": "art art--sunset  · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f564",
+          "label": "See our work → · href",
+          "value": "case-studies/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Choose a delivery model that fits your project",
+      "text": [
+        {
+          "id": "f584",
+          "label": "p · / Choose your project approach",
+          "value": "/ Choose your project approach"
+        },
+        {
+          "id": "f585",
+          "label": "h2 · Choose a delivery model",
+          "value": "Choose a delivery model "
+        },
+        {
+          "id": "f586",
+          "label": "span · that fits your project",
+          "value": "that fits your project"
+        },
+        {
+          "id": "f587",
+          "label": "p · Agree the pages, features and integrations before work begins. Changes",
+          "value": "Agree the pages, features and integrations before work begins. Changes can then be assessed against a shared plan."
+        },
+        {
+          "id": "f588",
+          "label": "h3 · Working with DuooNex",
+          "value": "Working with DuooNex"
+        },
+        {
+          "id": "f589",
+          "label": "span · ✓",
+          "value": "✓"
+        },
+        {
+          "id": "f590",
+          "label": "strong · Defined scope",
+          "value": "Defined scope"
+        },
+        {
+          "id": "f591",
+          "label": "p · Agree pages, features, dependencies and acceptance criteria before imp",
+          "value": "Agree pages, features, dependencies and acceptance criteria before implementation."
+        },
+        {
+          "id": "f592",
+          "label": "span · ✓",
+          "value": "✓"
+        },
+        {
+          "id": "f593",
+          "label": "strong · Connected design and build",
+          "value": "Connected design and build"
+        },
+        {
+          "id": "f594",
+          "label": "p · Keep the approved user journey and reusable interface patterns aligned",
+          "value": "Keep the approved user journey and reusable interface patterns aligned with the working product."
+        },
+        {
+          "id": "f595",
+          "label": "span · ✓",
+          "value": "✓"
+        },
+        {
+          "id": "f596",
+          "label": "strong · Agreed support",
+          "value": "Agreed support"
+        },
+        {
+          "id": "f597",
+          "label": "p · Document which maintenance, updates and improvements are included afte",
+          "value": "Document which maintenance, updates and improvements are included after launch."
+        },
+        {
+          "id": "f598",
+          "label": "span · ✓",
+          "value": "✓"
+        },
+        {
+          "id": "f599",
+          "label": "strong · Transparent deliverables",
+          "value": "Transparent deliverables"
+        },
+        {
+          "id": "f600",
+          "label": "p · Compare proposals using the same requirements and identify third-party",
+          "value": "Compare proposals using the same requirements and identify third-party fees separately."
+        },
+        {
+          "id": "f601",
+          "label": "span · ✓",
+          "value": "✓"
+        },
+        {
+          "id": "f602",
+          "label": "strong · Production handover",
+          "value": "Production handover"
+        },
+        {
+          "id": "f603",
+          "label": "p · Agree access, source files, content editing guidance and deployment re",
+          "value": "Agree access, source files, content editing guidance and deployment responsibilities."
+        },
+        {
+          "id": "f604",
+          "label": "h3 · Planning your engagement",
+          "value": "Planning your engagement"
+        },
+        {
+          "id": "f605",
+          "label": "span · ✗",
+          "value": "✗"
+        },
+        {
+          "id": "f606",
+          "label": "strong · Defined scope",
+          "value": "Defined scope"
+        },
+        {
+          "id": "f607",
+          "label": "p · Agree pages, features, dependencies and acceptance criteria before imp",
+          "value": "Agree pages, features, dependencies and acceptance criteria before implementation."
+        },
+        {
+          "id": "f608",
+          "label": "span · ✗",
+          "value": "✗"
+        },
+        {
+          "id": "f609",
+          "label": "strong · Connected design and build",
+          "value": "Connected design and build"
+        },
+        {
+          "id": "f610",
+          "label": "p · Keep the approved user journey and reusable interface patterns aligned",
+          "value": "Keep the approved user journey and reusable interface patterns aligned with the working product."
+        },
+        {
+          "id": "f611",
+          "label": "span · ✗",
+          "value": "✗"
+        },
+        {
+          "id": "f612",
+          "label": "strong · Agreed support",
+          "value": "Agreed support"
+        },
+        {
+          "id": "f613",
+          "label": "p · Document which maintenance, updates and improvements are included afte",
+          "value": "Document which maintenance, updates and improvements are included after launch."
+        },
+        {
+          "id": "f614",
+          "label": "span · ✗",
+          "value": "✗"
+        },
+        {
+          "id": "f615",
+          "label": "strong · Transparent deliverables",
+          "value": "Transparent deliverables"
+        },
+        {
+          "id": "f616",
+          "label": "p · Compare proposals using the same requirements and identify third-party",
+          "value": "Compare proposals using the same requirements and identify third-party fees separately."
+        },
+        {
+          "id": "f617",
+          "label": "span · ✗",
+          "value": "✗"
+        },
+        {
+          "id": "f618",
+          "label": "strong · Production handover",
+          "value": "Production handover"
+        },
+        {
+          "id": "f619",
+          "label": "p · Agree access, source files, content editing guidance and deployment re",
+          "value": "Agree access, source files, content editing guidance and deployment responsibilities."
+        }
+      ],
+      "images": [],
+      "details": [],
+      "structuredData": []
+    },
+    {
+      "label": "One team behind every live product.",
+      "text": [
+        {
+          "id": "f686",
+          "label": "h2 · One team behind every",
+          "value": "One team behind every "
+        },
+        {
+          "id": "f687",
+          "label": "span · live product.",
+          "value": "live product."
+        },
+        {
+          "id": "f688",
+          "label": "a · Start your project",
+          "value": "Start your project "
+        },
+        {
+          "id": "f690",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f692",
+          "label": "span · Business goals and project scope",
+          "value": "Business goals and project scope"
+        },
+        {
+          "id": "f694",
+          "label": "span · Customer journeys and content planning",
+          "value": "Customer journeys and content planning"
+        },
+        {
+          "id": "f696",
+          "label": "span · Responsive Figma interface design",
+          "value": "Responsive Figma interface design"
+        },
+        {
+          "id": "f698",
+          "label": "span · Reusable design components",
+          "value": "Reusable design components"
+        },
+        {
+          "id": "f700",
+          "label": "span · Shopify and Liquid storefronts",
+          "value": "Shopify and Liquid storefronts"
+        },
+        {
+          "id": "f702",
+          "label": "span · Product and collection architecture",
+          "value": "Product and collection architecture"
+        },
+        {
+          "id": "f704",
+          "label": "span · Mobile-first shopping experiences",
+          "value": "Mobile-first shopping experiences"
+        },
+        {
+          "id": "f706",
+          "label": "span · WordPress publishing workflows",
+          "value": "WordPress publishing workflows"
+        },
+        {
+          "id": "f708",
+          "label": "span · React and Next.js interfaces",
+          "value": "React and Next.js interfaces"
+        },
+        {
+          "id": "f710",
+          "label": "span · Python and Django backends",
+          "value": "Python and Django backends"
+        },
+        {
+          "id": "f712",
+          "label": "span · API and business-system integrations",
+          "value": "API and business-system integrations"
+        },
+        {
+          "id": "f714",
+          "label": "span · Form and checkout testing",
+          "value": "Form and checkout testing"
+        },
+        {
+          "id": "f716",
+          "label": "span · Technical SEO foundations",
+          "value": "Technical SEO foundations"
+        },
+        {
+          "id": "f718",
+          "label": "span · Website performance reviews",
+          "value": "Website performance reviews"
+        },
+        {
+          "id": "f720",
+          "label": "span · Production deployment planning",
+          "value": "Production deployment planning"
+        },
+        {
+          "id": "f722",
+          "label": "span · Content and maintenance handover",
+          "value": "Content and maintenance handover"
+        },
+        {
+          "id": "f724",
+          "label": "span · Business goals and project scope",
+          "value": "Business goals and project scope"
+        },
+        {
+          "id": "f726",
+          "label": "span · Customer journeys and content planning",
+          "value": "Customer journeys and content planning"
+        },
+        {
+          "id": "f728",
+          "label": "span · Responsive Figma interface design",
+          "value": "Responsive Figma interface design"
+        },
+        {
+          "id": "f730",
+          "label": "span · Reusable design components",
+          "value": "Reusable design components"
+        },
+        {
+          "id": "f732",
+          "label": "span · Shopify and Liquid storefronts",
+          "value": "Shopify and Liquid storefronts"
+        },
+        {
+          "id": "f734",
+          "label": "span · Product and collection architecture",
+          "value": "Product and collection architecture"
+        },
+        {
+          "id": "f736",
+          "label": "span · Mobile-first shopping experiences",
+          "value": "Mobile-first shopping experiences"
+        },
+        {
+          "id": "f738",
+          "label": "span · WordPress publishing workflows",
+          "value": "WordPress publishing workflows"
+        },
+        {
+          "id": "f740",
+          "label": "span · React and Next.js interfaces",
+          "value": "React and Next.js interfaces"
+        },
+        {
+          "id": "f742",
+          "label": "span · Python and Django backends",
+          "value": "Python and Django backends"
+        },
+        {
+          "id": "f744",
+          "label": "span · API and business-system integrations",
+          "value": "API and business-system integrations"
+        },
+        {
+          "id": "f746",
+          "label": "span · Form and checkout testing",
+          "value": "Form and checkout testing"
+        },
+        {
+          "id": "f748",
+          "label": "span · Technical SEO foundations",
+          "value": "Technical SEO foundations"
+        },
+        {
+          "id": "f750",
+          "label": "span · Website performance reviews",
+          "value": "Website performance reviews"
+        },
+        {
+          "id": "f752",
+          "label": "span · Production deployment planning",
+          "value": "Production deployment planning"
+        },
+        {
+          "id": "f754",
+          "label": "span · Content and maintenance handover",
+          "value": "Content and maintenance handover"
+        }
+      ],
+      "images": [
+        {
+          "id": "f691",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f693",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f695",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f697",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f699",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f701",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f703",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f705",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f707",
+          "label": "art art--grey  · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f709",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f711",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f713",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f715",
+          "label": "art art--sunset  · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f717",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f719",
+          "label": "art art--sunset  · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f721",
+          "label": "art art--grey  · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f723",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f725",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f727",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f729",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f731",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f733",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f735",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f737",
+          "label": "art art--dark  · Background image",
+          "value": "/assets/images/custom-dashboard.png"
+        },
+        {
+          "id": "f739",
+          "label": "art art--grey  · Background image",
+          "value": "/assets/images/uiux-design.png"
+        },
+        {
+          "id": "f741",
+          "label": "art art--indigo  · Background image",
+          "value": "/assets/images/custom-websites-hero.png"
+        },
+        {
+          "id": "f743",
+          "label": "art art--sky  · Background image",
+          "value": "/assets/images/ecommerce-experience.png"
+        },
+        {
+          "id": "f745",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f747",
+          "label": "art art--sunset  · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f749",
+          "label": "art art--ember  · Background image",
+          "value": "/assets/images/python-api.png"
+        },
+        {
+          "id": "f751",
+          "label": "art art--sunset  · Background image",
+          "value": "/assets/images/wordpress-content.png"
+        },
+        {
+          "id": "f753",
+          "label": "art art--grey  · Background image",
+          "value": "/assets/images/uiux-design.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f689",
+          "label": "Start your project → · href",
+          "value": "contact/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Web Development Portfolio questions",
+      "text": [
+        {
+          "id": "f755",
+          "label": "h2 · Web",
+          "value": "Web "
+        },
+        {
+          "id": "f756",
+          "label": "span · Development Portfolio questions",
+          "value": "Development Portfolio questions"
+        },
+        {
+          "id": "f757",
+          "label": "span · What does DuooNex build?",
+          "value": "What does DuooNex build?"
+        },
+        {
+          "id": "f758",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f759",
+          "label": "p · DuooNex builds Shopify stores, e-commerce websites, WordPress sites an",
+          "value": "DuooNex builds Shopify stores, e-commerce websites, WordPress sites and custom web applications for businesses in Dubai, across the UAE and beyond."
+        },
+        {
+          "id": "f760",
+          "label": "p · Projects can include Figma UI/UX, React and Next.js frontends, Python/",
+          "value": "Projects can include Figma UI/UX, React and Next.js frontends, Python/Django backends, APIs and integrations."
+        },
+        {
+          "id": "f761",
+          "label": "p · The scope can cover planning, design, development, testing, technical ",
+          "value": "The scope can cover planning, design, development, testing, technical SEO foundations and production deployment."
+        },
+        {
+          "id": "f762",
+          "label": "span · Can you customize or migrate a Shopify store?",
+          "value": "Can you customize or migrate a Shopify store?"
+        },
+        {
+          "id": "f763",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f764",
+          "label": "p · Yes. Shopify work can include custom Liquid sections, product template",
+          "value": "Yes. Shopify work can include custom Liquid sections, product templates, metafields, collection UX and supported app integrations."
+        },
+        {
+          "id": "f765",
+          "label": "p · Migration planning covers catalog content, important URLs, redirects, ",
+          "value": "Migration planning covers catalog content, important URLs, redirects, integrations and the customer journey."
+        },
+        {
+          "id": "f766",
+          "label": "p · We agree the required data and functionality before testing the new st",
+          "value": "We agree the required data and functionality before testing the new store and preparing launch."
+        },
+        {
+          "id": "f767",
+          "label": "span · How do you approach website redesigns?",
+          "value": "How do you approach website redesigns?"
+        },
+        {
+          "id": "f768",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f769",
+          "label": "p · We review navigation, content, mobile layouts, performance and the enq",
+          "value": "We review navigation, content, mobile layouts, performance and the enquiry or purchase journey to identify priority issues."
+        },
+        {
+          "id": "f770",
+          "label": "p · The redesign scope should preserve useful pages and address the proble",
+          "value": "The redesign scope should preserve useful pages and address the problems that customers actually encounter."
+        },
+        {
+          "id": "f771",
+          "label": "p · Important URL changes need redirect planning and post-launch checks.",
+          "value": "Important URL changes need redirect planning and post-launch checks."
+        },
+        {
+          "id": "f772",
+          "label": "span · What is included in UI/UX design?",
+          "value": "What is included in UI/UX design?"
+        },
+        {
+          "id": "f773",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f774",
+          "label": "p · UI/UX work can include user flows, wireframes, responsive Figma layout",
+          "value": "UI/UX work can include user flows, wireframes, responsive Figma layouts, interactive prototypes and reusable components."
+        },
+        {
+          "id": "f775",
+          "label": "p · We document important interaction states so the development team under",
+          "value": "We document important interaction states so the development team understands how the interface should behave."
+        },
+        {
+          "id": "f776",
+          "label": "p · Deliverables and review rounds are agreed around the project requireme",
+          "value": "Deliverables and review rounds are agreed around the project requirements."
+        },
+        {
+          "id": "f777",
+          "label": "span · Can you integrate payment, shipping and business systems?",
+          "value": "Can you integrate payment, shipping and business systems?"
+        },
+        {
+          "id": "f778",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f779",
+          "label": "p · Yes. Integration work can connect supported payment gateways, courier ",
+          "value": "Yes. Integration work can connect supported payment gateways, courier services, inventory systems, ERP/POS platforms and APIs."
+        },
+        {
+          "id": "f780",
+          "label": "p · Availability depends on your platform, provider accounts and the inter",
+          "value": "Availability depends on your platform, provider accounts and the interfaces offered by each service."
+        },
+        {
+          "id": "f781",
+          "label": "p · We confirm dependencies and test the agreed workflows before launch.",
+          "value": "We confirm dependencies and test the agreed workflows before launch."
+        },
+        {
+          "id": "f782",
+          "label": "span · Do you work with startups and established businesses?",
+          "value": "Do you work with startups and established businesses?"
+        },
+        {
+          "id": "f783",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f784",
+          "label": "p · Yes. DuooNex works with retailers, D2C brands, startups, service busin",
+          "value": "Yes. DuooNex works with retailers, D2C brands, startups, service businesses and teams that need custom operational tools."
+        },
+        {
+          "id": "f785",
+          "label": "p · An initial release can focus on essential features, while a larger eng",
+          "value": "An initial release can focus on essential features, while a larger engagement can cover a broader platform or redesign."
+        },
+        {
+          "id": "f786",
+          "label": "p · The scope is based on the business requirements and the people who wil",
+          "value": "The scope is based on the business requirements and the people who will use and maintain the product."
+        },
+        {
+          "id": "f787",
+          "label": "span · Will the website be optimized for search?",
+          "value": "Will the website be optimized for search?"
+        },
+        {
+          "id": "f788",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f789",
+          "label": "p · SEO foundations can include unique metadata, useful headings, internal",
+          "value": "SEO foundations can include unique metadata, useful headings, internal links, responsive layouts, image descriptions and crawlability checks."
+        },
+        {
+          "id": "f790",
+          "label": "p · Relevant content helps search engines understand each page, but rankin",
+          "value": "Relevant content helps search engines understand each page, but rankings also depend on competition, authority and ongoing work."
+        },
+        {
+          "id": "f791",
+          "label": "p · DuooNex does not guarantee first-page or number-one Google rankings.",
+          "value": "DuooNex does not guarantee first-page or number-one Google rankings."
+        },
+        {
+          "id": "f792",
+          "label": "span · Can you help plan an MVP?",
+          "value": "Can you help plan an MVP?"
+        },
+        {
+          "id": "f793",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f794",
+          "label": "p · Yes. We help define the smallest release that lets a real user complet",
+          "value": "Yes. We help define the smallest release that lets a real user complete a useful task."
+        },
+        {
+          "id": "f795",
+          "label": "p · A prototype can clarify uncertain requirements before development begi",
+          "value": "A prototype can clarify uncertain requirements before development begins."
+        },
+        {
+          "id": "f796",
+          "label": "p · Launch planning includes testing, deployment and a way to collect feed",
+          "value": "Launch planning includes testing, deployment and a way to collect feedback for the next iteration."
+        },
+        {
+          "id": "f797",
+          "label": "span · Do you provide maintenance after launch?",
+          "value": "Do you provide maintenance after launch?"
+        },
+        {
+          "id": "f798",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f799",
+          "label": "p · Ongoing support can cover content changes, bug fixes, platform updates",
+          "value": "Ongoing support can cover content changes, bug fixes, platform updates, performance improvements and new features."
+        },
+        {
+          "id": "f800",
+          "label": "p · For e-commerce projects, support may also include app and integration ",
+          "value": "For e-commerce projects, support may also include app and integration checks."
+        },
+        {
+          "id": "f801",
+          "label": "p · Support responsibilities, availability and scope are agreed separately",
+          "value": "Support responsibilities, availability and scope are agreed separately for each engagement."
+        },
+        {
+          "id": "f802",
+          "label": "span · Which technologies do you use?",
+          "value": "Which technologies do you use?"
+        },
+        {
+          "id": "f803",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f804",
+          "label": "p · Core technologies include Shopify, Liquid, WordPress, Figma, React, Ne",
+          "value": "Core technologies include Shopify, Liquid, WordPress, Figma, React, Next.js, JavaScript, Python, Django, PostgreSQL and REST APIs."
+        },
+        {
+          "id": "f805",
+          "label": "p · The choice depends on content editing, commerce operations, applicatio",
+          "value": "The choice depends on content editing, commerce operations, application workflows and integration needs."
+        },
+        {
+          "id": "f806",
+          "label": "p · We explain the proposed stack before implementation so it fits the lon",
+          "value": "We explain the proposed stack before implementation so it fits the long-term maintenance plan."
+        },
+        {
+          "id": "f807",
+          "label": "span · How long does a website project take?",
+          "value": "How long does a website project take?"
+        },
+        {
+          "id": "f808",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f809",
+          "label": "p · Timing depends on page count, custom functionality, content readiness,",
+          "value": "Timing depends on page count, custom functionality, content readiness, integrations and review cycles."
+        },
+        {
+          "id": "f810",
+          "label": "p · We set milestones after reviewing the requirements rather than promisi",
+          "value": "We set milestones after reviewing the requirements rather than promising the same turnaround for every project."
+        },
+        {
+          "id": "f811",
+          "label": "p · A focused landing page has a different scope from a full store migrati",
+          "value": "A focused landing page has a different scope from a full store migration or custom business application."
+        },
+        {
+          "id": "f812",
+          "label": "span · How much does website development cost in Dubai?",
+          "value": "How much does website development cost in Dubai?"
+        },
+        {
+          "id": "f813",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f814",
+          "label": "p · DuooNex quotes according to the agreed pages, platform, design require",
+          "value": "DuooNex quotes according to the agreed pages, platform, design requirements, integrations and testing scope."
+        },
+        {
+          "id": "f815",
+          "label": "p · Platform subscriptions, third-party services and ongoing support shoul",
+          "value": "Platform subscriptions, third-party services and ongoing support should be identified separately in the proposal."
+        },
+        {
+          "id": "f816",
+          "label": "p · Share your brief and budget range to receive a project-specific estima",
+          "value": "Share your brief and budget range to receive a project-specific estimate."
+        },
+        {
+          "id": "f817",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f818",
+          "label": "p · Hi, I’m the DuooNex team. Tell us what you want to build, what is slow",
+          "value": "Hi, I’m the DuooNex team. Tell us what you want to build, what is slowing your business down, or what you want to improve. We’ll help you define the right digital solution."
+        },
+        {
+          "id": "f819",
+          "label": "a · Talk to DuooNex",
+          "value": "Talk to DuooNex"
+        },
+        {
+          "id": "f821",
+          "label": "span · →",
+          "value": "→"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f820",
+          "label": "Talk to DuooNex→ · href",
+          "value": "https://wa.me/971588102728"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Ready to discuss your website project?",
+      "text": [
+        {
+          "id": "f822",
+          "label": "h2 · Ready to discuss",
+          "value": "Ready to discuss "
+        },
+        {
+          "id": "f823",
+          "label": "span · your website project?",
+          "value": "your website project?"
+        },
+        {
+          "id": "f824",
+          "label": "li · Share your goals and current website.",
+          "value": "Share your goals and current website."
+        },
+        {
+          "id": "f825",
+          "label": "li · Agree scope, milestones and review points.",
+          "value": "Agree scope, milestones and review points."
+        },
+        {
+          "id": "f826",
+          "label": "li · Connect design, development and launch.",
+          "value": "Connect design, development and launch."
+        },
+        {
+          "id": "f827",
+          "label": "p · Discuss your project on WhatsApp:",
+          "value": "Discuss your project on WhatsApp:"
+        },
+        {
+          "id": "f828",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f829",
+          "label": "strong · DuooNex team",
+          "value": "DuooNex team"
+        },
+        {
+          "id": "f830",
+          "label": "span · Dubai-based project team",
+          "value": "Dubai-based project team"
+        },
+        {
+          "id": "f831",
+          "label": "a · Discuss your project",
+          "value": "Discuss your project "
+        },
+        {
+          "id": "f833",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f836",
+          "label": "option · Project size / budget",
+          "value": "Project size / budget"
+        },
+        {
+          "id": "f838",
+          "label": "option · Website / Landing Page",
+          "value": "Website / Landing Page"
+        },
+        {
+          "id": "f840",
+          "label": "option · E-commerce / Shopify",
+          "value": "E-commerce / Shopify"
+        },
+        {
+          "id": "f842",
+          "label": "option · Web App / Mobile App",
+          "value": "Web App / Mobile App"
+        },
+        {
+          "id": "f844",
+          "label": "option · SaaS / Custom Software",
+          "value": "SaaS / Custom Software"
+        },
+        {
+          "id": "f846",
+          "label": "option · Enterprise / Custom Scope",
+          "value": "Enterprise / Custom Scope"
+        },
+        {
+          "id": "f848",
+          "label": "option · How did you hear about DuooNex?",
+          "value": "How did you hear about DuooNex?"
+        },
+        {
+          "id": "f850",
+          "label": "option · Google Search",
+          "value": "Google Search"
+        },
+        {
+          "id": "f852",
+          "label": "option · AI / ChatGPT",
+          "value": "AI / ChatGPT"
+        },
+        {
+          "id": "f854",
+          "label": "option · Google / Search",
+          "value": "Google / Search"
+        },
+        {
+          "id": "f856",
+          "label": "option · Referral",
+          "value": "Referral"
+        },
+        {
+          "id": "f858",
+          "label": "option · LinkedIn",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f860",
+          "label": "option · Instagram",
+          "value": "Instagram"
+        },
+        {
+          "id": "f862",
+          "label": "option · Website / Blog",
+          "value": "Website / Blog"
+        },
+        {
+          "id": "f864",
+          "label": "option · LinkedIn",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f866",
+          "label": "option · Instagram",
+          "value": "Instagram"
+        },
+        {
+          "id": "f868",
+          "label": "option · YouTube",
+          "value": "YouTube"
+        },
+        {
+          "id": "f870",
+          "label": "option · Referral",
+          "value": "Referral"
+        },
+        {
+          "id": "f872",
+          "label": "option · Other",
+          "value": "Other"
+        },
+        {
+          "id": "f875",
+          "label": "p · What do you need?",
+          "value": "What do you need?"
+        },
+        {
+          "id": "f877",
+          "label": "span · UI/UX &Figma to Website",
+          "value": "UI/UX &Figma to Website"
+        },
+        {
+          "id": "f879",
+          "label": "span · SaaS Product",
+          "value": "SaaS Product"
+        },
+        {
+          "id": "f881",
+          "label": "span · E-commerce& Website",
+          "value": "E-commerce& Website"
+        },
+        {
+          "id": "f883",
+          "label": "span · Performance & Conversion",
+          "value": "Performance & Conversion"
+        },
+        {
+          "id": "f885",
+          "label": "span · Mobile Application",
+          "value": "Mobile Application"
+        },
+        {
+          "id": "f887",
+          "label": "span · Custom Development",
+          "value": "Custom Development"
+        },
+        {
+          "id": "f889",
+          "label": "span · MVP / SaaS",
+          "value": "MVP / SaaS"
+        },
+        {
+          "id": "f891",
+          "label": "span · Website / E-commerce",
+          "value": "Website / E-commerce"
+        },
+        {
+          "id": "f892",
+          "label": "button · Review enquiry",
+          "value": "Review enquiry"
+        },
+        {
+          "id": "f893",
+          "label": "small · Prefer email?",
+          "value": "Prefer email?"
+        },
+        {
+          "id": "f894",
+          "label": "a · johnsantonyjo@gmail.com",
+          "value": "johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f896",
+          "label": "p · Email johnsantonyjo@gmail.com or WhatsApp +971 58 810 2728 to send you",
+          "value": "Email johnsantonyjo@gmail.com or WhatsApp +971 58 810 2728 to send your enquiry. This form is a local preview."
+        },
+        {
+          "id": "f897",
+          "label": "strong · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f898",
+          "label": "span · Custom software and digital product delivery",
+          "value": "Custom software and digital product delivery"
+        },
+        {
+          "id": "f899",
+          "label": "strong · LinkedIn",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f900",
+          "label": "span · One of LinkedIn’s top-rated design teams",
+          "value": "One of LinkedIn’s top-rated design teams"
+        },
+        {
+          "id": "f901",
+          "label": "strong · Instagram",
+          "value": "Instagram"
+        },
+        {
+          "id": "f902",
+          "label": "span · Component-based websites and applications& product design projects on ",
+          "value": "Component-based websites and applications& product design projects on Instagram"
+        },
+        {
+          "id": "f903",
+          "label": "strong · SHOPIFY",
+          "value": "SHOPIFY"
+        },
+        {
+          "id": "f904",
+          "label": "span · E-commerce builds and customizations",
+          "value": "E-commerce builds and customizations"
+        },
+        {
+          "id": "f905",
+          "label": "strong · SOFTWARE",
+          "value": "SOFTWARE"
+        },
+        {
+          "id": "f906",
+          "label": "span · Web apps, mobile apps & SaaS products",
+          "value": "Web apps, mobile apps & SaaS products"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f832",
+          "label": "Discuss your project → · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f834",
+          "label": "email · placeholder",
+          "value": "Work email"
+        },
+        {
+          "id": "f835",
+          "label": "name · placeholder",
+          "value": "Name / Company"
+        },
+        {
+          "id": "f837",
+          "label": "Project size / budget · value",
+          "value": ""
+        },
+        {
+          "id": "f839",
+          "label": "Website / Landing Page · value",
+          "value": "Website / Landing Page"
+        },
+        {
+          "id": "f841",
+          "label": "E-commerce / Shopify · value",
+          "value": "E-commerce / Shopify"
+        },
+        {
+          "id": "f843",
+          "label": "Web App / Mobile App · value",
+          "value": "Web App / Mobile App"
+        },
+        {
+          "id": "f845",
+          "label": "SaaS / Custom Software · value",
+          "value": "SaaS / Custom Software"
+        },
+        {
+          "id": "f847",
+          "label": "Enterprise / Custom Scope · value",
+          "value": "Enterprise / Custom Scope"
+        },
+        {
+          "id": "f849",
+          "label": "How did you hear about DuooNex? · value",
+          "value": ""
+        },
+        {
+          "id": "f851",
+          "label": "Google Search · value",
+          "value": "Google Search"
+        },
+        {
+          "id": "f853",
+          "label": "AI / ChatGPT · value",
+          "value": "AI / ChatGPT"
+        },
+        {
+          "id": "f855",
+          "label": "Google / Search · value",
+          "value": "Google / Search"
+        },
+        {
+          "id": "f857",
+          "label": "Referral · value",
+          "value": "Referral"
+        },
+        {
+          "id": "f859",
+          "label": "LinkedIn · value",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f861",
+          "label": "Instagram · value",
+          "value": "Instagram"
+        },
+        {
+          "id": "f863",
+          "label": "Website / Blog · value",
+          "value": "Website / Blog"
+        },
+        {
+          "id": "f865",
+          "label": "LinkedIn · value",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f867",
+          "label": "Instagram · value",
+          "value": "Instagram"
+        },
+        {
+          "id": "f869",
+          "label": "YouTube · value",
+          "value": "YouTube"
+        },
+        {
+          "id": "f871",
+          "label": "Referral · value",
+          "value": "Referral"
+        },
+        {
+          "id": "f873",
+          "label": "Other · value",
+          "value": "Other"
+        },
+        {
+          "id": "f874",
+          "label": "message · placeholder",
+          "value": "Tell us what you want to build, improve, automate, or launch"
+        },
+        {
+          "id": "f876",
+          "label": "help · value",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f878",
+          "label": "help · value",
+          "value": "SaaS Design"
+        },
+        {
+          "id": "f880",
+          "label": "help · value",
+          "value": "Branding"
+        },
+        {
+          "id": "f882",
+          "label": "help · value",
+          "value": "CRO"
+        },
+        {
+          "id": "f884",
+          "label": "help · value",
+          "value": "Mobile app"
+        },
+        {
+          "id": "f886",
+          "label": "help · value",
+          "value": "Development"
+        },
+        {
+          "id": "f888",
+          "label": "help · value",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f890",
+          "label": "help · value",
+          "value": "Web Design"
+        },
+        {
+          "id": "f895",
+          "label": "johnsantonyjo@gmail.com · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Build a website that works for your business",
+      "text": [
+        {
+          "id": "f907",
+          "label": "h2 · Build a website that works for your business",
+          "value": "Build a website that works for your business"
+        },
+        {
+          "id": "f908",
+          "label": "p · Talk to DuooNex in Dubai about Shopify, e-commerce or a custom web app",
+          "value": "Talk to DuooNex in Dubai about Shopify, e-commerce or a custom web application. Share your requirements to define the right scope and next steps."
+        },
+        {
+          "id": "f909",
+          "label": "a · Start a project",
+          "value": "Start a project "
+        },
+        {
+          "id": "f911",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f912",
+          "label": "a · View our work",
+          "value": "View our work "
+        },
+        {
+          "id": "f914",
+          "label": "span · →",
+          "value": "→"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f910",
+          "label": "Start a project → · href",
+          "value": "contact/index.html"
+        },
+        {
+          "id": "f913",
+          "label": "View our work → · href",
+          "value": "case-studies/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Footer",
+      "text": [
+        {
+          "id": "f918",
+          "label": "p · DuooNex builds Shopify stores, e-commerce websites and custom web appl",
+          "value": "DuooNex builds Shopify stores, e-commerce websites and custom web applications in Dubai. UI/UX, WordPress, React, Next.js, Python/Django, integrations and technical SEO foundations for UAE businesses."
+        },
+        {
+          "id": "f919",
+          "label": "a · Company Profile",
+          "value": "Company Profile "
+        },
+        {
+          "id": "f921",
+          "label": "span · ↓",
+          "value": "↓"
+        },
+        {
+          "id": "f922",
+          "label": "a · Email",
+          "value": "Email"
+        },
+        {
+          "id": "f925",
+          "label": "a · Chat",
+          "value": "Chat"
+        },
+        {
+          "id": "f928",
+          "label": "a · Call",
+          "value": "Call"
+        },
+        {
+          "id": "f931",
+          "label": "a · Info",
+          "value": "Info"
+        },
+        {
+          "id": "f934",
+          "label": "h4 · Design & Website Services",
+          "value": "Design & Website Services"
+        },
+        {
+          "id": "f935",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f937",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f939",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f941",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f943",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f945",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f947",
+          "label": "h4 · Strategy & Product Services",
+          "value": "Strategy & Product Services"
+        },
+        {
+          "id": "f948",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f950",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f952",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f954",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f956",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f958",
+          "label": "h4 · Software Development",
+          "value": "Software Development"
+        },
+        {
+          "id": "f959",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f961",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f963",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f965",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f967",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f969",
+          "label": "h4 · DuooNex",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f970",
+          "label": "a · About Us",
+          "value": "About Us"
+        },
+        {
+          "id": "f972",
+          "label": "a · Packages",
+          "value": "Packages"
+        },
+        {
+          "id": "f974",
+          "label": "a · Services",
+          "value": "Services"
+        },
+        {
+          "id": "f976",
+          "label": "a · Blog",
+          "value": "Blog"
+        },
+        {
+          "id": "f978",
+          "label": "a · FAQs",
+          "value": "FAQs"
+        },
+        {
+          "id": "f980",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f982",
+          "label": "a · Industries",
+          "value": "Industries"
+        },
+        {
+          "id": "f991",
+          "label": "strong · johnsantonyjo@gmail.com",
+          "value": "johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f993",
+          "label": "strong · Global delivery",
+          "value": "Global delivery"
+        },
+        {
+          "id": "f994",
+          "label": "span · 🇺🇸",
+          "value": "🇺🇸"
+        },
+        {
+          "id": "f995",
+          "label": "p · Remote-first software team serving businesses and startups",
+          "value": "Remote-first software team serving businesses and startups"
+        },
+        {
+          "id": "f996",
+          "label": "strong · UAE",
+          "value": "UAE"
+        },
+        {
+          "id": "f997",
+          "label": "span · 🇦🇪",
+          "value": "🇦🇪"
+        },
+        {
+          "id": "f998",
+          "label": "p · Serving UAE, GCC & international clients",
+          "value": "Serving UAE, GCC & international clients"
+        },
+        {
+          "id": "f999",
+          "label": "strong · Global",
+          "value": "Global"
+        },
+        {
+          "id": "f1000",
+          "label": "span · 🌍",
+          "value": "🌍"
+        },
+        {
+          "id": "f1001",
+          "label": "p · Websites, e-commerce, software & product development",
+          "value": "Websites, e-commerce, software & product development"
+        },
+        {
+          "id": "f1002",
+          "label": "strong · Fast delivery",
+          "value": "Fast delivery"
+        },
+        {
+          "id": "f1003",
+          "label": "span · ⚡",
+          "value": "⚡"
+        },
+        {
+          "id": "f1004",
+          "label": "p · Website projects delivered in as little as 2 weeks",
+          "value": "Website projects delivered in as little as 2 weeks"
+        },
+        {
+          "id": "f1005",
+          "label": "strong · After launch",
+          "value": "After launch"
+        },
+        {
+          "id": "f1006",
+          "label": "span · 🛠️",
+          "value": "🛠️"
+        },
+        {
+          "id": "f1007",
+          "label": "p · 2 months AMC support after eligible launches",
+          "value": "2 months AMC support after eligible launches"
+        },
+        {
+          "id": "f1008",
+          "label": "summary · Explore all services",
+          "value": "Explore all services "
+        },
+        {
+          "id": "f1009",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f1010",
+          "label": "h5 · DESIGN & EXPERIENCE",
+          "value": "DESIGN & EXPERIENCE"
+        },
+        {
+          "id": "f1011",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f1013",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f1015",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f1017",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f1019",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f1021",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f1023",
+          "label": "a · E-commerce Integrations",
+          "value": "E-commerce Integrations"
+        },
+        {
+          "id": "f1025",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f1027",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f1029",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f1031",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f1033",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f1035",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f1037",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f1039",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f1041",
+          "label": "a · WordPress Development",
+          "value": "WordPress Development"
+        },
+        {
+          "id": "f1043",
+          "label": "h5 · DEVELOPMENT & SOFTWARE",
+          "value": "DEVELOPMENT & SOFTWARE"
+        },
+        {
+          "id": "f1044",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f1046",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f1048",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f1050",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f1052",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f1054",
+          "label": "span · DuooNex © 2026",
+          "value": "DuooNex © 2026"
+        },
+        {
+          "id": "f1055",
+          "label": "span · Custom software, websites, e-commerce & digital products",
+          "value": "Custom software, websites, e-commerce & digital products"
+        }
+      ],
+      "images": [
+        {
+          "id": "f916",
+          "label": "logo__img · src",
+          "value": "/assets/images/duoonex-logo.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f915",
+          "label": "logo · href",
+          "value": "index.html"
+        },
+        {
+          "id": "f917",
+          "label": "logo__img · alt",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f920",
+          "label": "Company Profile ↓ · href",
+          "value": "#"
+        },
+        {
+          "id": "f923",
+          "label": "Email · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f924",
+          "label": "Email · aria-label",
+          "value": "Email DuooNex"
+        },
+        {
+          "id": "f926",
+          "label": "Chat · href",
+          "value": "https://wa.me/971588102728"
+        },
+        {
+          "id": "f927",
+          "label": "Chat · aria-label",
+          "value": "Chat DuooNex"
+        },
+        {
+          "id": "f929",
+          "label": "Call · href",
+          "value": "tel:+971588102728"
+        },
+        {
+          "id": "f930",
+          "label": "Call · aria-label",
+          "value": "Call DuooNex"
+        },
+        {
+          "id": "f932",
+          "label": "Info · href",
+          "value": "about/index.html"
+        },
+        {
+          "id": "f933",
+          "label": "Info · aria-label",
+          "value": "Info DuooNex"
+        },
+        {
+          "id": "f936",
+          "label": "UI/UX Design · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f938",
+          "label": "Custom Web Development · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f940",
+          "label": "Mobile E-commerce UX · href",
+          "value": "services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f942",
+          "label": "SaaS Interface Design · href",
+          "value": "services/saas-design/index.html"
+        },
+        {
+          "id": "f944",
+          "label": "Landing Page Development · href",
+          "value": "services/landing-page-design/index.html"
+        },
+        {
+          "id": "f946",
+          "label": "E-commerce Development · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f949",
+          "label": "E-commerce UX Research · href",
+          "value": "services/ux-research/index.html"
+        },
+        {
+          "id": "f951",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "services/ux-audit/index.html"
+        },
+        {
+          "id": "f953",
+          "label": "Website Strategy · href",
+          "value": "services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f955",
+          "label": "QA & Launch Testing · href",
+          "value": "services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f957",
+          "label": "Conversion Rate Optimization · href",
+          "value": "services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f960",
+          "label": "MVP Development · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f962",
+          "label": "Shopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f964",
+          "label": "Python & Django Development · href",
+          "value": "services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f966",
+          "label": "React & Next.js Development · href",
+          "value": "services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f968",
+          "label": "Custom Web Applications · href",
+          "value": "services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f971",
+          "label": "About Us · href",
+          "value": "about/index.html"
+        },
+        {
+          "id": "f973",
+          "label": "Packages · href",
+          "value": "subscription/index.html"
+        },
+        {
+          "id": "f975",
+          "label": "Services · href",
+          "value": "services/index.html"
+        },
+        {
+          "id": "f977",
+          "label": "Blog · href",
+          "value": "blog/index.html"
+        },
+        {
+          "id": "f979",
+          "label": "FAQs · href",
+          "value": "faqs/index.html"
+        },
+        {
+          "id": "f981",
+          "label": "Projects · href",
+          "value": "case-studies/index.html"
+        },
+        {
+          "id": "f983",
+          "label": "Industries · href",
+          "value": "locations/index.html"
+        },
+        {
+          "id": "f984",
+          "label": "a · href",
+          "value": "llm-info/index.html"
+        },
+        {
+          "id": "f985",
+          "label": "a · href",
+          "value": "llm-info/index.html"
+        },
+        {
+          "id": "f986",
+          "label": "a · href",
+          "value": "#"
+        },
+        {
+          "id": "f987",
+          "label": "a · href",
+          "value": "#"
+        },
+        {
+          "id": "f988",
+          "label": "a · href",
+          "value": " #/"
+        },
+        {
+          "id": "f989",
+          "label": "a · href",
+          "value": "#"
+        },
+        {
+          "id": "f990",
+          "label": "a · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f992",
+          "label": "a · href",
+          "value": "tel:+971588102728"
+        },
+        {
+          "id": "f1012",
+          "label": "UI/UX Design · href",
+          "value": "services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f1014",
+          "label": "Custom Web Development · href",
+          "value": "services/web-design/index.html"
+        },
+        {
+          "id": "f1016",
+          "label": "Mobile E-commerce UX · href",
+          "value": "services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f1018",
+          "label": "Landing Page Development · href",
+          "value": "services/landing-page-design/index.html"
+        },
+        {
+          "id": "f1020",
+          "label": "SaaS Interface Design · href",
+          "value": "services/saas-design/index.html"
+        },
+        {
+          "id": "f1022",
+          "label": "E-commerce Development · href",
+          "value": "services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f1024",
+          "label": "E-commerce Integrations · href",
+          "value": "services/ui-ux-design-for-ai-based-products/index.html"
+        },
+        {
+          "id": "f1026",
+          "label": "Figma to Website · href",
+          "value": "services/digital-product-design/index.html"
+        },
+        {
+          "id": "f1028",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "services/ux-audit/index.html"
+        },
+        {
+          "id": "f1030",
+          "label": "E-commerce UX Research · href",
+          "value": "services/ux-research/index.html"
+        },
+        {
+          "id": "f1032",
+          "label": "QA & Launch Testing · href",
+          "value": "services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f1034",
+          "label": "Conversion Rate Optimization · href",
+          "value": "services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f1036",
+          "label": "Design Systems · href",
+          "value": "services/design-systems/index.html"
+        },
+        {
+          "id": "f1038",
+          "label": "Shopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f1040",
+          "label": "Website Strategy · href",
+          "value": "services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f1042",
+          "label": "WordPress Development · href",
+          "value": "services/law-firm-web-design-development/index.html"
+        },
+        {
+          "id": "f1045",
+          "label": "Shopify Development · href",
+          "value": "services/webflow/index.html"
+        },
+        {
+          "id": "f1047",
+          "label": "React & Next.js Development · href",
+          "value": "services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f1049",
+          "label": "MVP Development · href",
+          "value": "services/mvp-development/index.html"
+        },
+        {
+          "id": "f1051",
+          "label": "Custom Web Applications · href",
+          "value": "services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f1053",
+          "label": "Python & Django Development · href",
+          "value": "services/ai-mvp-development/index.html"
+        }
+      ],
+      "structuredData": []
+    }
+  ]
+}

@@ -5,3 +5,4 @@ data/runtime/
 !.env.example
 test-output/
 *.log
+dist/

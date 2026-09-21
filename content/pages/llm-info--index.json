@@ -1,0 +1,2211 @@
+{
+  "title": "DuooNex Company Information | Dubai Web Agency",
+  "path": "llm-info/index.html",
+  "fingerprint": "c2de7b9ab0f2c6be5e2a90be83cbe3d99d8a7464aa0e5b19a16c06770a1468a8",
+  "sections": [
+    {
+      "label": "SEO",
+      "text": [
+        {
+          "id": "f0",
+          "label": "title · DuooNex Company Information | Dubai Web Agency",
+          "value": "DuooNex Company Information | Dubai Web Agency"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f1",
+          "label": "description · content",
+          "value": "A factual overview of DuooNex, a Dubai-based agency for Shopify, e-commerce, UI/UX, WordPress and custom web application development."
+        },
+        {
+          "id": "f2",
+          "label": "og:site_name · content",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f3",
+          "label": "og:type · content",
+          "value": "website"
+        },
+        {
+          "id": "f4",
+          "label": "og:title · content",
+          "value": "DuooNex Company Information | Dubai Web Agency"
+        },
+        {
+          "id": "f5",
+          "label": "og:description · content",
+          "value": "A factual overview of DuooNex, a Dubai-based agency for Shopify, e-commerce, UI/UX, WordPress and custom web application development."
+        },
+        {
+          "id": "f6",
+          "label": "twitter:card · content",
+          "value": "summary"
+        },
+        {
+          "id": "f7",
+          "label": "twitter:title · content",
+          "value": "DuooNex Company Information | Dubai Web Agency"
+        },
+        {
+          "id": "f8",
+          "label": "twitter:description · content",
+          "value": "A factual overview of DuooNex, a Dubai-based agency for Shopify, e-commerce, UI/UX, WordPress and custom web application development."
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Navigation",
+      "text": [
+        {
+          "id": "f14",
+          "label": "a · Services",
+          "value": "Services "
+        },
+        {
+          "id": "f16",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f18",
+          "label": "sup · 16",
+          "value": "16"
+        },
+        {
+          "id": "f19",
+          "label": "a · Pricing",
+          "value": "Pricing"
+        },
+        {
+          "id": "f21",
+          "label": "a · Our Approach",
+          "value": "Our Approach"
+        },
+        {
+          "id": "f23",
+          "label": "a · Startups",
+          "value": "Startups"
+        },
+        {
+          "id": "f25",
+          "label": "a · About us",
+          "value": "About us"
+        },
+        {
+          "id": "f27",
+          "label": "a · Contact us",
+          "value": "Contact us "
+        },
+        {
+          "id": "f29",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f31",
+          "label": "div · 01",
+          "value": "01"
+        },
+        {
+          "id": "f32",
+          "label": "div · THINK",
+          "value": "THINK"
+        },
+        {
+          "id": "f33",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f35",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f37",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f39",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f41",
+          "label": "a · WordPress Development",
+          "value": "WordPress Development"
+        },
+        {
+          "id": "f43",
+          "label": "div · 02",
+          "value": "02"
+        },
+        {
+          "id": "f44",
+          "label": "div · DESIGN",
+          "value": "DESIGN"
+        },
+        {
+          "id": "f45",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f47",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f49",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f51",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f53",
+          "label": "a · E-commerce Integrations",
+          "value": "E-commerce Integrations"
+        },
+        {
+          "id": "f55",
+          "label": "div · 03",
+          "value": "03"
+        },
+        {
+          "id": "f56",
+          "label": "div · SHIP",
+          "value": "SHIP"
+        },
+        {
+          "id": "f57",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f59",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f61",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f63",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f65",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f67",
+          "label": "div · 04",
+          "value": "04"
+        },
+        {
+          "id": "f68",
+          "label": "div · SCALE",
+          "value": "SCALE"
+        },
+        {
+          "id": "f69",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f71",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f73",
+          "label": "a · Ongoing Partnership",
+          "value": "Ongoing Partnership"
+        },
+        {
+          "id": "f75",
+          "label": "strong · Still deciding?",
+          "value": "Still deciding?"
+        },
+        {
+          "id": "f76",
+          "label": "p · Every great product starts with a 30-minute call.",
+          "value": "Every great product starts with a 30-minute call."
+        },
+        {
+          "id": "f77",
+          "label": "a · Discuss your project",
+          "value": "Discuss your project"
+        },
+        {
+          "id": "f79",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f80",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f82",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f83",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f85",
+          "label": "span · W",
+          "value": "W"
+        },
+        {
+          "id": "f86",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f88",
+          "label": "span · P",
+          "value": "P"
+        },
+        {
+          "id": "f89",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f91",
+          "label": "span · S",
+          "value": "S"
+        },
+        {
+          "id": "f92",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f94",
+          "label": "span · B",
+          "value": "B"
+        },
+        {
+          "id": "f95",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f97",
+          "label": "span · L",
+          "value": "L"
+        },
+        {
+          "id": "f98",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f100",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f101",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f103",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f104",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f106",
+          "label": "span · M",
+          "value": "M"
+        },
+        {
+          "id": "f107",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f109",
+          "label": "span · D",
+          "value": "D"
+        },
+        {
+          "id": "f110",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f112",
+          "label": "span · W",
+          "value": "W"
+        },
+        {
+          "id": "f113",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f115",
+          "label": "span · U",
+          "value": "U"
+        },
+        {
+          "id": "f116",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f118",
+          "label": "span · M",
+          "value": "M"
+        },
+        {
+          "id": "f119",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f121",
+          "label": "span · A",
+          "value": "A"
+        },
+        {
+          "id": "f123",
+          "label": "a · Services",
+          "value": "Services"
+        },
+        {
+          "id": "f125",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f127",
+          "label": "a · Pricing",
+          "value": "Pricing"
+        },
+        {
+          "id": "f129",
+          "label": "a · Our Approach",
+          "value": "Our Approach"
+        },
+        {
+          "id": "f131",
+          "label": "a · Startups",
+          "value": "Startups"
+        },
+        {
+          "id": "f133",
+          "label": "a · About us",
+          "value": "About us"
+        },
+        {
+          "id": "f135",
+          "label": "a · Contact us",
+          "value": "Contact us"
+        },
+        {
+          "id": "f137",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f139",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f141",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f143",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f145",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f147",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f149",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f151",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f153",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f155",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f157",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f159",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f161",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f163",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        }
+      ],
+      "images": [
+        {
+          "id": "f11",
+          "label": "logo__img · src",
+          "value": "/assets/images/duoonex-logo.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f9",
+          "label": "logo · href",
+          "value": "../index.html"
+        },
+        {
+          "id": "f10",
+          "label": "logo · aria-label",
+          "value": "DuooNex home"
+        },
+        {
+          "id": "f12",
+          "label": "logo__img · alt",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f13",
+          "label": "Services Projects16 Pricing Our Approach Startups About us · aria-label",
+          "value": "Primary"
+        },
+        {
+          "id": "f15",
+          "label": "Services · href",
+          "value": "../services/index.html"
+        },
+        {
+          "id": "f17",
+          "label": "Projects16 · href",
+          "value": "../case-studies/index.html"
+        },
+        {
+          "id": "f20",
+          "label": "Pricing · href",
+          "value": "../subscription/index.html"
+        },
+        {
+          "id": "f22",
+          "label": "Our Approach · href",
+          "value": "../testimonials/index.html"
+        },
+        {
+          "id": "f24",
+          "label": "Startups · href",
+          "value": "../startups/index.html"
+        },
+        {
+          "id": "f26",
+          "label": "About us · href",
+          "value": "../about/index.html"
+        },
+        {
+          "id": "f28",
+          "label": "Contact us → · href",
+          "value": "../contact/index.html"
+        },
+        {
+          "id": "f30",
+          "label": "burger · aria-label",
+          "value": "Menu"
+        },
+        {
+          "id": "f34",
+          "label": "E-commerce UX Research · href",
+          "value": "../services/ux-research/index.html"
+        },
+        {
+          "id": "f36",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "../services/ux-audit/index.html"
+        },
+        {
+          "id": "f38",
+          "label": "QA & Launch Testing · href",
+          "value": "../services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f40",
+          "label": "E-commerce Development · href",
+          "value": "../services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f42",
+          "label": "WordPress Development · href",
+          "value": "../services/law-firm-web-design-development/index.html"
+        },
+        {
+          "id": "f46",
+          "label": "UI/UX Design · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f48",
+          "label": "SaaS Interface Design · href",
+          "value": "../services/saas-design/index.html"
+        },
+        {
+          "id": "f50",
+          "label": "Custom Web Development · href",
+          "value": "../services/web-design/index.html"
+        },
+        {
+          "id": "f52",
+          "label": "Mobile E-commerce UX · href",
+          "value": "../services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f54",
+          "label": "E-commerce Integrations · href",
+          "value": "../services/ui-ux-design-for-ai-based-products/index.html"
+        },
+        {
+          "id": "f58",
+          "label": "Shopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f60",
+          "label": "MVP Development · href",
+          "value": "../services/mvp-development/index.html"
+        },
+        {
+          "id": "f62",
+          "label": "React & Next.js Development · href",
+          "value": "../services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f64",
+          "label": "Custom Web Applications · href",
+          "value": "../services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f66",
+          "label": "Python & Django Development · href",
+          "value": "../services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f70",
+          "label": "Conversion Rate Optimization · href",
+          "value": "../services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f72",
+          "label": "Website Strategy · href",
+          "value": "../services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f74",
+          "label": "Ongoing Partnership · href",
+          "value": "../subscription/index.html"
+        },
+        {
+          "id": "f78",
+          "label": "Discuss your project→ · href",
+          "value": "https://wa.me/971588102728"
+        },
+        {
+          "id": "f81",
+          "label": "UUI/UX Design · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f84",
+          "label": "WCustom Web Development · href",
+          "value": "../services/web-design/index.html"
+        },
+        {
+          "id": "f87",
+          "label": "PFigma to Website · href",
+          "value": "../services/digital-product-design/index.html"
+        },
+        {
+          "id": "f90",
+          "label": "SSaaS Interface Design · href",
+          "value": "../services/saas-design/index.html"
+        },
+        {
+          "id": "f93",
+          "label": "BE-commerce Development · href",
+          "value": "../services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f96",
+          "label": "LLanding Page Development · href",
+          "value": "../services/landing-page-design/index.html"
+        },
+        {
+          "id": "f99",
+          "label": "UWebsite Strategy · href",
+          "value": "../services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f102",
+          "label": "UWebsite Redesign & UX Audit · href",
+          "value": "../services/ux-audit/index.html"
+        },
+        {
+          "id": "f105",
+          "label": "MMobile E-commerce UX · href",
+          "value": "../services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f108",
+          "label": "DDesign Systems · href",
+          "value": "../services/design-systems/index.html"
+        },
+        {
+          "id": "f111",
+          "label": "WShopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f114",
+          "label": "UE-commerce UX Research · href",
+          "value": "../services/ux-research/index.html"
+        },
+        {
+          "id": "f117",
+          "label": "MMVP Development · href",
+          "value": "../services/mvp-development/index.html"
+        },
+        {
+          "id": "f120",
+          "label": "APython & Django Development · href",
+          "value": "../services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f122",
+          "label": "Services Projects Pricing Our Approach Startups About us Contact  · aria-label",
+          "value": "Mobile"
+        },
+        {
+          "id": "f124",
+          "label": "Services · href",
+          "value": "../services/index.html"
+        },
+        {
+          "id": "f126",
+          "label": "Projects · href",
+          "value": "../case-studies/index.html"
+        },
+        {
+          "id": "f128",
+          "label": "Pricing · href",
+          "value": "../subscription/index.html"
+        },
+        {
+          "id": "f130",
+          "label": "Our Approach · href",
+          "value": "../testimonials/index.html"
+        },
+        {
+          "id": "f132",
+          "label": "Startups · href",
+          "value": "../startups/index.html"
+        },
+        {
+          "id": "f134",
+          "label": "About us · href",
+          "value": "../about/index.html"
+        },
+        {
+          "id": "f136",
+          "label": "Contact us · href",
+          "value": "../contact/index.html"
+        },
+        {
+          "id": "f138",
+          "label": "UI/UX Design · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f140",
+          "label": "Custom Web Development · href",
+          "value": "../services/web-design/index.html"
+        },
+        {
+          "id": "f142",
+          "label": "Figma to Website · href",
+          "value": "../services/digital-product-design/index.html"
+        },
+        {
+          "id": "f144",
+          "label": "SaaS Interface Design · href",
+          "value": "../services/saas-design/index.html"
+        },
+        {
+          "id": "f146",
+          "label": "E-commerce Development · href",
+          "value": "../services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f148",
+          "label": "Landing Page Development · href",
+          "value": "../services/landing-page-design/index.html"
+        },
+        {
+          "id": "f150",
+          "label": "Website Strategy · href",
+          "value": "../services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f152",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "../services/ux-audit/index.html"
+        },
+        {
+          "id": "f154",
+          "label": "Mobile E-commerce UX · href",
+          "value": "../services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f156",
+          "label": "Design Systems · href",
+          "value": "../services/design-systems/index.html"
+        },
+        {
+          "id": "f158",
+          "label": "Shopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f160",
+          "label": "E-commerce UX Research · href",
+          "value": "../services/ux-research/index.html"
+        },
+        {
+          "id": "f162",
+          "label": "MVP Development · href",
+          "value": "../services/mvp-development/index.html"
+        },
+        {
+          "id": "f164",
+          "label": "Python & Django Development · href",
+          "value": "../services/ai-mvp-development/index.html"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "DuooNex company and service information.",
+      "text": [
+        {
+          "id": "f165",
+          "label": "p · / LLM info",
+          "value": "/ LLM info"
+        },
+        {
+          "id": "f166",
+          "label": "h1 · DuooNex company",
+          "value": "DuooNex company "
+        },
+        {
+          "id": "f167",
+          "label": "span · and service information.",
+          "value": "and service information."
+        },
+        {
+          "id": "f168",
+          "label": "p · A factual overview of DuooNex, a Dubai-based agency for Shopify, e-com",
+          "value": "A factual overview of DuooNex, a Dubai-based agency for Shopify, e-commerce, UI/UX, WordPress and custom web application development."
+        }
+      ],
+      "images": [],
+      "details": [],
+      "structuredData": []
+    },
+    {
+      "label": "Company",
+      "text": [
+        {
+          "id": "f169",
+          "label": "h2 · Company",
+          "value": "Company"
+        },
+        {
+          "id": "f170",
+          "label": "p · A factual overview of DuooNex, a Dubai-based agency for Shopify, e-com",
+          "value": "A factual overview of DuooNex, a Dubai-based agency for Shopify, e-commerce, UI/UX, WordPress and custom web application development."
+        },
+        {
+          "id": "f171",
+          "label": "h2 · Services",
+          "value": "Services"
+        },
+        {
+          "id": "f172",
+          "label": "li · UI UX Design",
+          "value": "UI UX Design"
+        },
+        {
+          "id": "f173",
+          "label": "li · Web Design",
+          "value": "Web Design"
+        },
+        {
+          "id": "f174",
+          "label": "li · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f175",
+          "label": "li · SaaS Design",
+          "value": "SaaS Design"
+        },
+        {
+          "id": "f176",
+          "label": "li · Landing Page Design",
+          "value": "Landing Page Design"
+        },
+        {
+          "id": "f177",
+          "label": "li · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f178",
+          "label": "li · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f179",
+          "label": "li · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f180",
+          "label": "li · Website UX Audit",
+          "value": "Website UX Audit"
+        },
+        {
+          "id": "f181",
+          "label": "li · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f182",
+          "label": "li · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f183",
+          "label": "li · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f184",
+          "label": "li · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f185",
+          "label": "li · E-commerce Integrations",
+          "value": "E-commerce Integrations"
+        },
+        {
+          "id": "f186",
+          "label": "li · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f187",
+          "label": "li · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f188",
+          "label": "li · React & Next.js",
+          "value": "React & Next.js"
+        },
+        {
+          "id": "f189",
+          "label": "li · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f190",
+          "label": "li · Python & Django",
+          "value": "Python & Django"
+        },
+        {
+          "id": "f191",
+          "label": "li · WordPress Websites",
+          "value": "WordPress Websites"
+        },
+        {
+          "id": "f192",
+          "label": "h2 · Pricing",
+          "value": "Pricing"
+        },
+        {
+          "id": "f193",
+          "label": "p · Pricing is project-specific and depends on scope, platform, integratio",
+          "value": "Pricing is project-specific and depends on scope, platform, integrations and support requirements. Contact DuooNex for an estimate."
+        },
+        {
+          "id": "f194",
+          "label": "h2 · Contact",
+          "value": "Contact"
+        },
+        {
+          "id": "f195",
+          "label": "p · Contact johnsantonyjo@gmail.com or +971 58 810 2728. Based in Dubai, U",
+          "value": "Contact johnsantonyjo@gmail.com or +971 58 810 2728. Based in Dubai, United Arab Emirates; serving UAE, GCC and international clients."
+        }
+      ],
+      "images": [],
+      "details": [],
+      "structuredData": []
+    },
+    {
+      "label": "Ready to discuss your website project?",
+      "text": [
+        {
+          "id": "f196",
+          "label": "h2 · Ready to discuss your",
+          "value": "Ready to discuss your "
+        },
+        {
+          "id": "f197",
+          "label": "span · website project?",
+          "value": "website project?"
+        },
+        {
+          "id": "f198",
+          "label": "li · Share your goals and current website.",
+          "value": "Share your goals and current website."
+        },
+        {
+          "id": "f199",
+          "label": "li · Agree scope, milestones and review points.",
+          "value": "Agree scope, milestones and review points."
+        },
+        {
+          "id": "f200",
+          "label": "li · Connect design, development and launch.",
+          "value": "Connect design, development and launch."
+        },
+        {
+          "id": "f201",
+          "label": "p · Discuss your project on WhatsApp:",
+          "value": "Discuss your project on WhatsApp:"
+        },
+        {
+          "id": "f202",
+          "label": "span · DN",
+          "value": "DN"
+        },
+        {
+          "id": "f203",
+          "label": "strong · DuooNex team",
+          "value": "DuooNex team"
+        },
+        {
+          "id": "f204",
+          "label": "span · Dubai-based project team",
+          "value": "Dubai-based project team"
+        },
+        {
+          "id": "f205",
+          "label": "a · Discuss your project",
+          "value": "Discuss your project"
+        },
+        {
+          "id": "f207",
+          "label": "span · →",
+          "value": "→"
+        },
+        {
+          "id": "f210",
+          "label": "option · Project budget",
+          "value": "Project budget"
+        },
+        {
+          "id": "f212",
+          "label": "option · AED 5,000–15,000",
+          "value": "AED 5,000–15,000"
+        },
+        {
+          "id": "f214",
+          "label": "option · AED 15,000–30,000",
+          "value": "AED 15,000–30,000"
+        },
+        {
+          "id": "f216",
+          "label": "option · AED 30,000–60,000",
+          "value": "AED 30,000–60,000"
+        },
+        {
+          "id": "f218",
+          "label": "option · AED 60,000–100,000",
+          "value": "AED 60,000–100,000"
+        },
+        {
+          "id": "f220",
+          "label": "option · AED 100,000+ / to be discussed",
+          "value": "AED 100,000+ / to be discussed"
+        },
+        {
+          "id": "f222",
+          "label": "option · How did you hear about us?",
+          "value": "How did you hear about us?"
+        },
+        {
+          "id": "f224",
+          "label": "option · Business directory",
+          "value": "Business directory"
+        },
+        {
+          "id": "f226",
+          "label": "option · ChatGPT",
+          "value": "ChatGPT"
+        },
+        {
+          "id": "f228",
+          "label": "option · Google or Other Search Engine",
+          "value": "Google or Other Search Engine"
+        },
+        {
+          "id": "f230",
+          "label": "option · Perplexity",
+          "value": "Perplexity"
+        },
+        {
+          "id": "f232",
+          "label": "option · Design community",
+          "value": "Design community"
+        },
+        {
+          "id": "f234",
+          "label": "option · Developer community",
+          "value": "Developer community"
+        },
+        {
+          "id": "f236",
+          "label": "option · Blog/Article",
+          "value": "Blog/Article"
+        },
+        {
+          "id": "f238",
+          "label": "option · LinkedIn",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f240",
+          "label": "option · Instagram",
+          "value": "Instagram"
+        },
+        {
+          "id": "f242",
+          "label": "option · Youtube",
+          "value": "Youtube"
+        },
+        {
+          "id": "f244",
+          "label": "option · Referral",
+          "value": "Referral"
+        },
+        {
+          "id": "f246",
+          "label": "option · Twitter",
+          "value": "Twitter"
+        },
+        {
+          "id": "f249",
+          "label": "p · How can we help you?",
+          "value": "How can we help you?"
+        },
+        {
+          "id": "f251",
+          "label": "span · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f253",
+          "label": "span · SaaS Design",
+          "value": "SaaS Design"
+        },
+        {
+          "id": "f255",
+          "label": "span · E-commerce",
+          "value": "E-commerce"
+        },
+        {
+          "id": "f257",
+          "label": "span · CRO",
+          "value": "CRO"
+        },
+        {
+          "id": "f259",
+          "label": "span · Mobile Commerce",
+          "value": "Mobile Commerce"
+        },
+        {
+          "id": "f261",
+          "label": "span · Development",
+          "value": "Development"
+        },
+        {
+          "id": "f263",
+          "label": "span · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f265",
+          "label": "span · Web Design",
+          "value": "Web Design"
+        },
+        {
+          "id": "f266",
+          "label": "button · Review enquiry",
+          "value": "Review enquiry"
+        },
+        {
+          "id": "f267",
+          "label": "small · Prefer email?",
+          "value": "Prefer email?"
+        },
+        {
+          "id": "f268",
+          "label": "a · johnsantonyjo@gmail.com",
+          "value": "johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f270",
+          "label": "p · Email johnsantonyjo@gmail.com or WhatsApp +971 58 810 2728 to send you",
+          "value": "Email johnsantonyjo@gmail.com or WhatsApp +971 58 810 2728 to send your enquiry. This form is a local preview."
+        },
+        {
+          "id": "f271",
+          "label": "strong · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f272",
+          "label": "span · Custom stores and Liquid development",
+          "value": "Custom stores and Liquid development"
+        },
+        {
+          "id": "f273",
+          "label": "strong · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f274",
+          "label": "span · Responsive UI/UX and design systems",
+          "value": "Responsive UI/UX and design systems"
+        },
+        {
+          "id": "f275",
+          "label": "strong · React",
+          "value": "React"
+        },
+        {
+          "id": "f276",
+          "label": "span · Component-based websites and applications",
+          "value": "Component-based websites and applications"
+        },
+        {
+          "id": "f277",
+          "label": "strong · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f278",
+          "label": "span · Storefront customization and integrations",
+          "value": "Storefront customization and integrations"
+        },
+        {
+          "id": "f279",
+          "label": "strong · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f280",
+          "label": "span · Backend platforms and REST APIs",
+          "value": "Backend platforms and REST APIs"
+        }
+      ],
+      "images": [],
+      "details": [
+        {
+          "id": "f206",
+          "label": "Discuss your project→ · href",
+          "value": "https://wa.me/971588102728"
+        },
+        {
+          "id": "f208",
+          "label": "email · placeholder",
+          "value": "Email"
+        },
+        {
+          "id": "f209",
+          "label": "name · placeholder",
+          "value": "Full name"
+        },
+        {
+          "id": "f211",
+          "label": "Project budget · value",
+          "value": ""
+        },
+        {
+          "id": "f213",
+          "label": "AED 5,000–15,000 · value",
+          "value": "AED 5,000–15,000"
+        },
+        {
+          "id": "f215",
+          "label": "AED 15,000–30,000 · value",
+          "value": "AED 15,000–30,000"
+        },
+        {
+          "id": "f217",
+          "label": "AED 30,000–60,000 · value",
+          "value": "AED 30,000–60,000"
+        },
+        {
+          "id": "f219",
+          "label": "AED 60,000–100,000 · value",
+          "value": "AED 60,000–100,000"
+        },
+        {
+          "id": "f221",
+          "label": "AED 100,000+ / to be discussed · value",
+          "value": "AED 100,000+ / to be discussed"
+        },
+        {
+          "id": "f223",
+          "label": "How did you hear about us? · value",
+          "value": ""
+        },
+        {
+          "id": "f225",
+          "label": "Business directory · value",
+          "value": "Business directory"
+        },
+        {
+          "id": "f227",
+          "label": "ChatGPT · value",
+          "value": "ChatGPT"
+        },
+        {
+          "id": "f229",
+          "label": "Google or Other Search Engine · value",
+          "value": "Google or Other Search Engine"
+        },
+        {
+          "id": "f231",
+          "label": "Perplexity · value",
+          "value": "Perplexity"
+        },
+        {
+          "id": "f233",
+          "label": "Design community · value",
+          "value": "Design community"
+        },
+        {
+          "id": "f235",
+          "label": "Developer community · value",
+          "value": "Developer community"
+        },
+        {
+          "id": "f237",
+          "label": "Blog/Article · value",
+          "value": "Blog/Article"
+        },
+        {
+          "id": "f239",
+          "label": "LinkedIn · value",
+          "value": "LinkedIn"
+        },
+        {
+          "id": "f241",
+          "label": "Instagram · value",
+          "value": "Instagram"
+        },
+        {
+          "id": "f243",
+          "label": "Youtube · value",
+          "value": "Youtube"
+        },
+        {
+          "id": "f245",
+          "label": "Referral · value",
+          "value": "Referral"
+        },
+        {
+          "id": "f247",
+          "label": "Twitter · value",
+          "value": "Twitter"
+        },
+        {
+          "id": "f248",
+          "label": "message · placeholder",
+          "value": "Tell us about your product and goals"
+        },
+        {
+          "id": "f250",
+          "label": "help · value",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f252",
+          "label": "help · value",
+          "value": "SaaS Design"
+        },
+        {
+          "id": "f254",
+          "label": "help · value",
+          "value": "Branding"
+        },
+        {
+          "id": "f256",
+          "label": "help · value",
+          "value": "CRO"
+        },
+        {
+          "id": "f258",
+          "label": "help · value",
+          "value": "Mobile app"
+        },
+        {
+          "id": "f260",
+          "label": "help · value",
+          "value": "Development"
+        },
+        {
+          "id": "f262",
+          "label": "help · value",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f264",
+          "label": "help · value",
+          "value": "Web Design"
+        },
+        {
+          "id": "f269",
+          "label": "johnsantonyjo@gmail.com · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        }
+      ],
+      "structuredData": []
+    },
+    {
+      "label": "Footer",
+      "text": [
+        {
+          "id": "f284",
+          "label": "p · DuooNex builds Shopify stores, e-commerce websites and custom web appl",
+          "value": "DuooNex builds Shopify stores, e-commerce websites and custom web applications in Dubai. UI/UX, WordPress, React, Next.js, Python/Django, integrations and technical SEO foundations for UAE businesses."
+        },
+        {
+          "id": "f285",
+          "label": "a · About DuooNex",
+          "value": "About DuooNex"
+        },
+        {
+          "id": "f287",
+          "label": "span · ↓",
+          "value": "↓"
+        },
+        {
+          "id": "f288",
+          "label": "a · Email",
+          "value": "Email"
+        },
+        {
+          "id": "f291",
+          "label": "a · Chat",
+          "value": "Chat"
+        },
+        {
+          "id": "f294",
+          "label": "a · Call",
+          "value": "Call"
+        },
+        {
+          "id": "f297",
+          "label": "a · Info",
+          "value": "Info"
+        },
+        {
+          "id": "f300",
+          "label": "h4 · Design Services",
+          "value": "Design Services"
+        },
+        {
+          "id": "f301",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f303",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f305",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f307",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f309",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f311",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f313",
+          "label": "h4 · Strategy & Research",
+          "value": "Strategy & Research"
+        },
+        {
+          "id": "f314",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f316",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f318",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f320",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f322",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f324",
+          "label": "h4 · Development Services",
+          "value": "Development Services"
+        },
+        {
+          "id": "f325",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f327",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f329",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f331",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f333",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f335",
+          "label": "h4 · Agency",
+          "value": "Agency"
+        },
+        {
+          "id": "f336",
+          "label": "a · About Us",
+          "value": "About Us"
+        },
+        {
+          "id": "f338",
+          "label": "a · Pricing",
+          "value": "Pricing"
+        },
+        {
+          "id": "f340",
+          "label": "a · Service",
+          "value": "Service"
+        },
+        {
+          "id": "f342",
+          "label": "a · Blog",
+          "value": "Blog"
+        },
+        {
+          "id": "f344",
+          "label": "a · FAQs",
+          "value": "FAQs"
+        },
+        {
+          "id": "f346",
+          "label": "a · Projects",
+          "value": "Projects"
+        },
+        {
+          "id": "f348",
+          "label": "a · Locations",
+          "value": "Locations"
+        },
+        {
+          "id": "f350",
+          "label": "a · LLM info",
+          "value": "LLM info"
+        },
+        {
+          "id": "f352",
+          "label": "h4 · Contact",
+          "value": "Contact"
+        },
+        {
+          "id": "f353",
+          "label": "a · Shopify",
+          "value": "Shopify"
+        },
+        {
+          "id": "f355",
+          "label": "a · React",
+          "value": "React"
+        },
+        {
+          "id": "f357",
+          "label": "a · Figma",
+          "value": "Figma"
+        },
+        {
+          "id": "f359",
+          "label": "a · Django",
+          "value": "Django"
+        },
+        {
+          "id": "f361",
+          "label": "strong · Drop us a line",
+          "value": "Drop us a line"
+        },
+        {
+          "id": "f362",
+          "label": "a · johnsantonyjo@gmail.com",
+          "value": "johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f364",
+          "label": "strong · Call us",
+          "value": "Call us"
+        },
+        {
+          "id": "f365",
+          "label": "a · +971 58 810 2728",
+          "value": "+971 58 810 2728"
+        },
+        {
+          "id": "f367",
+          "label": "strong · United States",
+          "value": "United States"
+        },
+        {
+          "id": "f368",
+          "label": "span · 🇺🇸",
+          "value": "🇺🇸"
+        },
+        {
+          "id": "f369",
+          "label": "p · Remote collaboration from Dubai; no local office is represented.",
+          "value": "Remote collaboration from Dubai; no local office is represented."
+        },
+        {
+          "id": "f370",
+          "label": "strong · Dubai",
+          "value": "Dubai"
+        },
+        {
+          "id": "f371",
+          "label": "span · 🇦🇪",
+          "value": "🇦🇪"
+        },
+        {
+          "id": "f372",
+          "label": "p · Dubai, United Arab Emirates",
+          "value": "Dubai, United Arab Emirates"
+        },
+        {
+          "id": "f373",
+          "label": "strong · Malaysia",
+          "value": "Malaysia"
+        },
+        {
+          "id": "f374",
+          "label": "span · 🇲🇾",
+          "value": "🇲🇾"
+        },
+        {
+          "id": "f375",
+          "label": "p · Remote collaboration from Dubai; no local office is represented.",
+          "value": "Remote collaboration from Dubai; no local office is represented."
+        },
+        {
+          "id": "f376",
+          "label": "strong · Indonesia",
+          "value": "Indonesia"
+        },
+        {
+          "id": "f377",
+          "label": "span · 🇮🇩",
+          "value": "🇮🇩"
+        },
+        {
+          "id": "f378",
+          "label": "p · Remote collaboration from Dubai; no local office is represented.",
+          "value": "Remote collaboration from Dubai; no local office is represented."
+        },
+        {
+          "id": "f379",
+          "label": "strong · Bangladesh",
+          "value": "Bangladesh"
+        },
+        {
+          "id": "f380",
+          "label": "span · 🇧🇩",
+          "value": "🇧🇩"
+        },
+        {
+          "id": "f381",
+          "label": "p · Remote collaboration from Dubai; no local office is represented.",
+          "value": "Remote collaboration from Dubai; no local office is represented."
+        },
+        {
+          "id": "f382",
+          "label": "summary · Show all services",
+          "value": "Show all services "
+        },
+        {
+          "id": "f383",
+          "label": "span · ↗",
+          "value": "↗"
+        },
+        {
+          "id": "f384",
+          "label": "h5 · DESIGN",
+          "value": "DESIGN"
+        },
+        {
+          "id": "f385",
+          "label": "a · UI/UX Design",
+          "value": "UI/UX Design"
+        },
+        {
+          "id": "f387",
+          "label": "a · Custom Web Development",
+          "value": "Custom Web Development"
+        },
+        {
+          "id": "f389",
+          "label": "a · Mobile E-commerce UX",
+          "value": "Mobile E-commerce UX"
+        },
+        {
+          "id": "f391",
+          "label": "a · Landing Page Development",
+          "value": "Landing Page Development"
+        },
+        {
+          "id": "f393",
+          "label": "a · SaaS Interface Design",
+          "value": "SaaS Interface Design"
+        },
+        {
+          "id": "f395",
+          "label": "a · E-commerce Development",
+          "value": "E-commerce Development"
+        },
+        {
+          "id": "f397",
+          "label": "a · E-commerce Integrations",
+          "value": "E-commerce Integrations"
+        },
+        {
+          "id": "f399",
+          "label": "a · Figma to Website",
+          "value": "Figma to Website"
+        },
+        {
+          "id": "f401",
+          "label": "a · Website Redesign & UX Audit",
+          "value": "Website Redesign & UX Audit"
+        },
+        {
+          "id": "f403",
+          "label": "a · E-commerce UX Research",
+          "value": "E-commerce UX Research"
+        },
+        {
+          "id": "f405",
+          "label": "a · QA & Launch Testing",
+          "value": "QA & Launch Testing"
+        },
+        {
+          "id": "f407",
+          "label": "a · Conversion Rate Optimization",
+          "value": "Conversion Rate Optimization"
+        },
+        {
+          "id": "f409",
+          "label": "a · Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "id": "f411",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f413",
+          "label": "a · Website Strategy",
+          "value": "Website Strategy"
+        },
+        {
+          "id": "f415",
+          "label": "a · WordPress Development",
+          "value": "WordPress Development"
+        },
+        {
+          "id": "f417",
+          "label": "h5 · DEVELOPMENT",
+          "value": "DEVELOPMENT"
+        },
+        {
+          "id": "f418",
+          "label": "a · Shopify Development",
+          "value": "Shopify Development"
+        },
+        {
+          "id": "f420",
+          "label": "a · React & Next.js Development",
+          "value": "React & Next.js Development"
+        },
+        {
+          "id": "f422",
+          "label": "a · MVP Development",
+          "value": "MVP Development"
+        },
+        {
+          "id": "f424",
+          "label": "a · Custom Web Applications",
+          "value": "Custom Web Applications"
+        },
+        {
+          "id": "f426",
+          "label": "a · Python & Django Development",
+          "value": "Python & Django Development"
+        },
+        {
+          "id": "f428",
+          "label": "span · DuooNex © 2026",
+          "value": "DuooNex © 2026"
+        },
+        {
+          "id": "f429",
+          "label": "span · Based in Dubai, United Arab Emirates. Serving the UAE, GCC and beyond.",
+          "value": "Based in Dubai, United Arab Emirates. Serving the UAE, GCC and beyond."
+        }
+      ],
+      "images": [
+        {
+          "id": "f282",
+          "label": "logo__img · src",
+          "value": "/assets/images/duoonex-logo.png"
+        }
+      ],
+      "details": [
+        {
+          "id": "f281",
+          "label": "logo · href",
+          "value": "../index.html"
+        },
+        {
+          "id": "f283",
+          "label": "logo__img · alt",
+          "value": "DuooNex"
+        },
+        {
+          "id": "f286",
+          "label": "About DuooNex↓ · href",
+          "value": "#"
+        },
+        {
+          "id": "f289",
+          "label": "Email · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f290",
+          "label": "Email · aria-label",
+          "value": "Email DuooNex"
+        },
+        {
+          "id": "f292",
+          "label": "Chat · href",
+          "value": "https://wa.me/971588102728"
+        },
+        {
+          "id": "f293",
+          "label": "Chat · aria-label",
+          "value": "Chat DuooNex"
+        },
+        {
+          "id": "f295",
+          "label": "Call · href",
+          "value": "tel:+971588102728"
+        },
+        {
+          "id": "f296",
+          "label": "Call · aria-label",
+          "value": "Call DuooNex"
+        },
+        {
+          "id": "f298",
+          "label": "Info · href",
+          "value": "../about/index.html"
+        },
+        {
+          "id": "f299",
+          "label": "Info · aria-label",
+          "value": "Info DuooNex"
+        },
+        {
+          "id": "f302",
+          "label": "UI/UX Design · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f304",
+          "label": "Custom Web Development · href",
+          "value": "../services/web-design/index.html"
+        },
+        {
+          "id": "f306",
+          "label": "Mobile E-commerce UX · href",
+          "value": "../services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f308",
+          "label": "SaaS Interface Design · href",
+          "value": "../services/saas-design/index.html"
+        },
+        {
+          "id": "f310",
+          "label": "Landing Page Development · href",
+          "value": "../services/landing-page-design/index.html"
+        },
+        {
+          "id": "f312",
+          "label": "E-commerce Development · href",
+          "value": "../services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f315",
+          "label": "E-commerce UX Research · href",
+          "value": "../services/ux-research/index.html"
+        },
+        {
+          "id": "f317",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "../services/ux-audit/index.html"
+        },
+        {
+          "id": "f319",
+          "label": "Website Strategy · href",
+          "value": "../services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f321",
+          "label": "QA & Launch Testing · href",
+          "value": "../services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f323",
+          "label": "Conversion Rate Optimization · href",
+          "value": "../services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f326",
+          "label": "MVP Development · href",
+          "value": "../services/mvp-development/index.html"
+        },
+        {
+          "id": "f328",
+          "label": "Shopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f330",
+          "label": "Python & Django Development · href",
+          "value": "../services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f332",
+          "label": "React & Next.js Development · href",
+          "value": "../services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f334",
+          "label": "Custom Web Applications · href",
+          "value": "../services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f337",
+          "label": "About Us · href",
+          "value": "../about/index.html"
+        },
+        {
+          "id": "f339",
+          "label": "Pricing · href",
+          "value": "../subscription/index.html"
+        },
+        {
+          "id": "f341",
+          "label": "Service · href",
+          "value": "../services/index.html"
+        },
+        {
+          "id": "f343",
+          "label": "Blog · href",
+          "value": "../blog/index.html"
+        },
+        {
+          "id": "f345",
+          "label": "FAQs · href",
+          "value": "../faqs/index.html"
+        },
+        {
+          "id": "f347",
+          "label": "Projects · href",
+          "value": "../case-studies/index.html"
+        },
+        {
+          "id": "f349",
+          "label": "Locations · href",
+          "value": "../locations/index.html"
+        },
+        {
+          "id": "f351",
+          "label": "LLM info · href",
+          "value": "../llm-info/index.html"
+        },
+        {
+          "id": "f354",
+          "label": "Shopify · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f356",
+          "label": "React · href",
+          "value": "../services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f358",
+          "label": "Figma · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f360",
+          "label": "Django · href",
+          "value": "../services/ai-mvp-development/index.html"
+        },
+        {
+          "id": "f363",
+          "label": "johnsantonyjo@gmail.com · href",
+          "value": "mailto:johnsantonyjo@gmail.com"
+        },
+        {
+          "id": "f366",
+          "label": "+971 58 810 2728 · href",
+          "value": "tel:+971588102728"
+        },
+        {
+          "id": "f386",
+          "label": "UI/UX Design · href",
+          "value": "../services/ui-ux-design/index.html"
+        },
+        {
+          "id": "f388",
+          "label": "Custom Web Development · href",
+          "value": "../services/web-design/index.html"
+        },
+        {
+          "id": "f390",
+          "label": "Mobile E-commerce UX · href",
+          "value": "../services/mobile-app-design/index.html"
+        },
+        {
+          "id": "f392",
+          "label": "Landing Page Development · href",
+          "value": "../services/landing-page-design/index.html"
+        },
+        {
+          "id": "f394",
+          "label": "SaaS Interface Design · href",
+          "value": "../services/saas-design/index.html"
+        },
+        {
+          "id": "f396",
+          "label": "E-commerce Development · href",
+          "value": "../services/brand-identity-design/index.html"
+        },
+        {
+          "id": "f398",
+          "label": "E-commerce Integrations · href",
+          "value": "../services/ui-ux-design-for-ai-based-products/index.html"
+        },
+        {
+          "id": "f400",
+          "label": "Figma to Website · href",
+          "value": "../services/digital-product-design/index.html"
+        },
+        {
+          "id": "f402",
+          "label": "Website Redesign & UX Audit · href",
+          "value": "../services/ux-audit/index.html"
+        },
+        {
+          "id": "f404",
+          "label": "E-commerce UX Research · href",
+          "value": "../services/ux-research/index.html"
+        },
+        {
+          "id": "f406",
+          "label": "QA & Launch Testing · href",
+          "value": "../services/ux-usability-testing/index.html"
+        },
+        {
+          "id": "f408",
+          "label": "Conversion Rate Optimization · href",
+          "value": "../services/conversion-rate-optimization/index.html"
+        },
+        {
+          "id": "f410",
+          "label": "Design Systems · href",
+          "value": "../services/design-systems/index.html"
+        },
+        {
+          "id": "f412",
+          "label": "Shopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f414",
+          "label": "Website Strategy · href",
+          "value": "../services/ui-ux-consultancy/index.html"
+        },
+        {
+          "id": "f416",
+          "label": "WordPress Development · href",
+          "value": "../services/law-firm-web-design-development/index.html"
+        },
+        {
+          "id": "f419",
+          "label": "Shopify Development · href",
+          "value": "../services/webflow/index.html"
+        },
+        {
+          "id": "f421",
+          "label": "React & Next.js Development · href",
+          "value": "../services/saas-mvp-development/index.html"
+        },
+        {
+          "id": "f423",
+          "label": "MVP Development · href",
+          "value": "../services/mvp-development/index.html"
+        },
+        {
+          "id": "f425",
+          "label": "Custom Web Applications · href",
+          "value": "../services/web-app-mvp-development/index.html"
+        },
+        {
+          "id": "f427",
+          "label": "Python & Django Development · href",
+          "value": "../services/ai-mvp-development/index.html"
+        }
+      ],
+      "structuredData": []
+    }
+  ]
+}
