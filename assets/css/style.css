@@ -330,7 +330,13 @@ h1, h2, h3, h4 { font-weight: 700; letter-spacing: -.02em; line-height: 1.12; }
 
 /* Project artwork */
 .art { position: relative; height: 100%; min-height: 120px; overflow: hidden; background: var(--bg-3); }
-.art::after { display: none; }
+.art::before,
+.art::after {
+  content: none !important;
+  display: none !important;
+  background: none !important;
+  background-image: none !important;
+}
 .art--indigo { background: linear-gradient(140deg, #2A1FB5, #6637F9 60%, #A78BFA); }
 .art--sky { background: linear-gradient(140deg, #7DB8F0, #C3D9F7 55%, #8E9BE8); }
 .art--magenta { background: linear-gradient(140deg, #8B37D4, #E42FC7 60%, #FF9AD5); }
