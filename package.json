@@ -1,0 +1,8 @@
+{
+  "name": "duoonex-site-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DuooNex static frontend with a lightweight content management backend",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,19 @@
+{
+  "site": {
+    "name": "DuooNex",
+    "tagline": "Custom websites and digital products for UAE businesses",
+    "email": "johnsantonyjo@gmail.com",
+    "phone": "+971 58 810 2728",
+    "logo": "assets/images/duoonex-logo.png"
+  },
+  "pages": {
+    "home": {
+      "title": "Custom Website Design & Development Dubai | DuooNex",
+      "description": "DuooNex designs and develops custom websites, digital products and business applications in Dubai.",
+      "heroTitle": "Custom digital experiences for ambitious teams.",
+      "heroDescription": "DuooNex designs and develops custom websites, e-commerce experiences and business applications for UAE businesses.",
+      "heroImage": "assets/images/custom-websites-hero.png"
+    }
+  },
+  "media": []
+}
