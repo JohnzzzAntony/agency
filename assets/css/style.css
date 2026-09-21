@@ -154,6 +154,11 @@ h1, h2, h3, h4 { font-weight: 700; letter-spacing: -.02em; line-height: 1.12; }
 .logo { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: 21px; letter-spacing: -.05em; }
 .logo__mark { width: 22px; height: 22px; flex: none; }
 .logo__img { width: 132px; height: auto; display: block; flex: none; }
+
+/* DuooNex project imagery */
+.art--indigo { background-image: linear-gradient(135deg, rgba(8,18,52,.18), rgba(63,47,238,.28)), url('../images/custom-websites-hero.png'); background-size: cover; background-position: center; }
+.art--dark { background-image: linear-gradient(135deg, rgba(8,12,28,.18), rgba(34,21,83,.25)), url('../images/custom-dashboard.png'); background-size: cover; background-position: center; }
+.art--sky { background-image: linear-gradient(135deg, rgba(255,255,255,.08), rgba(63,47,238,.16)), url('../images/ecommerce-experience.png'); background-size: cover; background-position: center; }
 .nav { display: flex; align-items: center; gap: 26px; margin-inline: auto; }
 .nav__link { position: relative; font-size: var(--fs-sm); font-weight: 500; padding-block: 6px; }
 .nav__link sup { font-size: 9px; color: var(--gray-400); margin-left: 2px; vertical-align: super; }
