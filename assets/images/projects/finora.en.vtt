@@ -1,0 +1,738 @@
+WEBVTT
+
+1
+00:00:04.074 --> 00:00:13.336
+Welcome to Finora — an all-in-one business management and accounting platform, built for companies in the United Arab Emirates.
+
+2
+00:00:13.376 --> 00:00:23.884
+In this tutorial we will walk through every part of the system, from signing in, to invoicing, purchasing, banking, inventory, VAT, and reports.
+
+3
+00:00:24.599 --> 00:00:27.306
+Finora is real double-entry accounting.
+
+4
+00:00:27.346 --> 00:00:38.929
+Every invoice, bill, payment and expense you record automatically posts a balanced journal entry, and every financial report is calculated directly from that ledger.
+
+5
+00:00:38.969 --> 00:00:42.099
+Nothing on a report is ever typed in by hand.
+
+6
+00:00:42.790 --> 00:00:45.231
+New businesses use the Register tab.
+
+7
+00:00:45.271 --> 00:00:51.227
+You enter your name, your organisation name and base currency, an email and a password.
+
+8
+00:00:51.267 --> 00:00:59.980
+Finora then creates your chart of accounts, UAE VAT rates, document numbering and a default bank account for you automatically.
+
+9
+00:01:00.642 --> 00:01:04.843
+Existing users simply sign in with their email and password.
+
+10
+00:01:04.883 --> 00:01:09.722
+We will sign in as the owner of our demo company, Finora Trading LLC.
+
+11
+00:01:17.673 --> 00:01:22.242
+The first time you sign in, Finora offers a short product tour.
+
+12
+00:01:22.282 --> 00:01:23.486
+Let us follow it.
+
+13
+00:01:23.526 --> 00:01:35.633
+The sidebar on the left holds every module, grouped the way the work is grouped: Sales, Purchases, Operations, Banking, Inventory, Accountant, Compliance, and Manage.
+
+14
+00:01:36.293 --> 00:01:39.178
+At the top left is the organisation switcher.
+
+15
+00:01:39.218 --> 00:01:44.120
+It shows which company’s books you are in, your role, and the base currency.
+
+16
+00:01:44.160 --> 00:01:48.932
+If you keep books for more than one company, you switch between them here.
+
+17
+00:01:48.972 --> 00:01:51.663
+Data is never mixed between organisations.
+
+18
+00:01:52.327 --> 00:01:58.828
+The search box finds any invoice, customer, bill, vendor or item by name or number.
+
+19
+00:01:58.868 --> 00:02:02.297
+You can open it from anywhere with Ctrl + K.
+
+20
+00:02:02.951 --> 00:02:06.392
+The New button is the one you will use most.
+
+21
+00:02:06.432 --> 00:02:15.491
+It starts any document — a customer, quote, invoice, bill, expense, transfer or journal — from anywhere in the app.
+
+22
+00:02:16.162 --> 00:02:24.745
+The bell collects notifications: approvals waiting for you, invoices that became overdue, and results of scheduled jobs.
+
+23
+00:02:24.785 --> 00:02:29.992
+The avatar menu holds settings, the audit trail, this tour, and sign out.
+
+24
+00:02:30.661 --> 00:02:35.421
+And finally, the numbers on the dashboard all come straight from the ledger.
+
+25
+00:02:35.461 --> 00:02:38.011
+Let us close the tour and try the search.
+
+26
+00:02:45.843 --> 00:02:58.207
+The dashboard greets you with four key figures: cash on hand across your bank and cash accounts, receivables your customers owe you, payables you owe vendors, and net profit for the year to date.
+
+27
+00:02:58.247 --> 00:03:01.643
+Each card is clickable and opens the report behind it.
+
+28
+00:03:02.309 --> 00:03:05.927
+Below that, an alert highlights overdue invoices.
+
+29
+00:03:05.967 --> 00:03:18.249
+Then you see a six-month cash chart, invoice value by status, recent invoices and bills, items that need attention, your top customers, and recent payments received.
+
+30
+00:03:18.902 --> 00:03:20.848
+Two shortcuts sit at the top.
+
+31
+00:03:20.888 --> 00:03:28.862
+Run scheduled jobs generates any recurring invoices, bills and journals that are due, and refreshes overdue statuses.
+
+32
+00:03:28.902 --> 00:03:31.602
+New Invoice jumps straight to invoicing.
+
+33
+00:03:36.215 --> 00:03:39.936
+Everything on the sales side starts with a customer.
+
+34
+00:03:39.976 --> 00:03:47.314
+The Customers list shows each contact with email, phone, tax registration number, currency and status.
+
+35
+00:03:47.354 --> 00:03:52.304
+You can export the list, or import customers in bulk from a CSV file.
+
+36
+00:03:52.970 --> 00:03:54.977
+Let us add a new customer.
+
+37
+00:03:55.017 --> 00:03:56.946
+Display name is required.
+
+38
+00:03:56.986 --> 00:04:10.332
+You can add the company, contact person, email, phone, the fifteen-digit TRN, and the tax treatment: VAT registered, not registered, GCC, export, out of scope, or exempt.
+
+39
+00:04:10.372 --> 00:04:16.160
+The tax treatment decides how VAT is applied on this customer’s documents.
+
+40
+00:04:16.828 --> 00:04:21.221
+Set the billing address, currency and payment terms in days.
+
+41
+00:04:21.261 --> 00:04:28.683
+An opening balance, if the customer already owes you money, is posted against Opening Balance Equity.
+
+42
+00:04:28.723 --> 00:04:31.048
+Save, and the customer is ready.
+
+43
+00:04:31.710 --> 00:04:37.974
+Open any customer to see their profile, outstanding balance, invoices and payment history.
+
+44
+00:04:38.014 --> 00:04:46.170
+From here you can print a statement of account, open their customer portal, record a payment, or raise a new invoice.
+
+45
+00:04:50.811 --> 00:04:53.485
+A typical sale can start with a quote.
+
+46
+00:04:53.525 --> 00:04:55.629
+Quotes never touch the ledger.
+
+47
+00:04:55.669 --> 00:04:59.701
+Let us quote one industrial pump for Al Noor Hospitality.
+
+48
+00:04:59.741 --> 00:05:03.131
+For a quote, the second date is the expiry date.
+
+49
+00:05:05.630 --> 00:05:07.753
+The quote is saved as a draft.
+
+50
+00:05:07.793 --> 00:05:09.484
+Send it to the customer.
+
+51
+00:05:09.524 --> 00:05:18.643
+When they agree, mark it accepted — and then convert it, either into a sales order for fulfilment, or straight into an invoice.
+
+52
+00:05:18.683 --> 00:05:21.240
+Here we convert it to a sales order.
+
+53
+00:05:21.941 --> 00:05:24.186
+A sales order is a confirmed order.
+
+54
+00:05:24.226 --> 00:05:32.348
+From it you create delivery notes to ship the goods — posting a delivery reduces stock — and an invoice to bill the customer.
+
+55
+00:05:32.388 --> 00:05:35.221
+Delivery notes are listed on their own page.
+
+56
+00:05:35.880 --> 00:05:39.411
+Now the most important document: the invoice.
+
+57
+00:05:39.451 --> 00:05:51.870
+The Invoices list shows outstanding, overdue and draft totals, and you can filter by status: draft, sent, partially paid, paid, overdue, void or written off.
+
+58
+00:05:52.592 --> 00:05:53.707
+Click New Invoice.
+
+59
+00:05:53.747 --> 00:06:01.862
+Choose the customer, the invoice date and the due date, and an optional reference such as the customer’s purchase order number.
+
+60
+00:06:05.473 --> 00:06:06.490
+Add line items.
+
+61
+00:06:06.530 --> 00:06:11.427
+Linking an item fills in the description, price and tax automatically.
+
+62
+00:06:11.467 --> 00:06:18.621
+Here we bill three hours of installation service, and add a second line for two safety equipment kits.
+
+63
+00:06:18.661 --> 00:06:22.852
+The amount, and the five percent VAT, calculate as you type.
+
+64
+00:06:23.567 --> 00:06:27.126
+The summary on the right shows subtotal, tax and total.
+
+65
+00:06:27.166 --> 00:06:35.831
+Finora stores money as whole fils — never floating-point numbers — and the server recalculates every total before anything is posted.
+
+66
+00:06:35.871 --> 00:06:41.067
+The panel below shows exactly what will hit the ledger when the invoice is sent.
+
+67
+00:06:41.748 --> 00:06:45.726
+Save draft keeps the invoice with no accounting effect.
+
+68
+00:06:45.766 --> 00:06:51.863
+Save and send finalises it, gives it the next invoice number, and posts the journal.
+
+69
+00:06:51.903 --> 00:06:53.398
+Let us save and send.
+
+70
+00:06:54.061 --> 00:06:55.855
+Here is the posted invoice.
+
+71
+00:06:55.895 --> 00:07:08.491
+On the right is its journal entry: accounts receivable is debited with the full amount, sales and service revenue are credited with the net amount, and output VAT is credited separately.
+
+72
+00:07:08.531 --> 00:07:10.801
+Debits equal credits, to the fils.
+
+73
+00:07:11.501 --> 00:07:22.126
+From here you can print or save a PDF, email the invoice, record a payment, issue a credit note, write off the balance as bad debt, or void it.
+
+74
+00:07:22.166 --> 00:07:26.751
+Voiding never deletes anything — it posts a reversing journal.
+
+75
+00:07:27.408 --> 00:07:30.006
+Let us look at the printable version.
+
+76
+00:07:30.046 --> 00:07:38.064
+It is a UAE tax invoice showing your TRN, the customer’s details, each line with its VAT, and the total in words.
+
+77
+00:07:38.104 --> 00:07:42.628
+Use your browser’s print dialog to print it or save it as a PDF.
+
+78
+00:07:47.231 --> 00:07:50.546
+When the customer pays, click Record payment.
+
+79
+00:07:50.586 --> 00:08:00.015
+Choose the amount, date, payment mode — bank transfer, cash, cheque, card or online — and the bank account the money went into.
+
+80
+00:08:00.055 --> 00:08:03.371
+The payment is allocated against the invoice.
+
+81
+00:08:04.032 --> 00:08:09.905
+Saving posts a second journal: the bank is debited and accounts receivable credited.
+
+82
+00:08:09.945 --> 00:08:14.482
+The invoice balance drops to zero and its status changes to Paid.
+
+83
+00:08:15.146 --> 00:08:20.993
+If you receive more than the invoice balance, the extra is kept as a customer advance.
+
+84
+00:08:21.033 --> 00:08:24.006
+All receipts appear under Payments Received.
+
+85
+00:08:24.656 --> 00:08:28.106
+Credit notes handle returns and price corrections.
+
+86
+00:08:28.146 --> 00:08:36.066
+A credit note reverses revenue and output VAT, and can be applied to an open invoice, or refunded to the customer.
+
+87
+00:08:40.721 --> 00:08:42.429
+Purchasing mirrors sales.
+
+88
+00:08:42.469 --> 00:08:46.346
+Vendors are your suppliers, managed just like customers.
+
+89
+00:08:46.386 --> 00:08:50.892
+A purchase order commits spend without touching accounts payable.
+
+90
+00:08:50.932 --> 00:08:52.080
+Let us raise one.
+
+91
+00:08:52.734 --> 00:08:57.334
+We order twenty industrial brushes from Industrial Supplier LLC.
+
+92
+00:08:57.374 --> 00:09:01.466
+The purchase price comes from the item, and VAT is added.
+
+93
+00:09:01.506 --> 00:09:02.554
+Save the order.
+
+94
+00:09:05.933 --> 00:09:07.830
+Send the order to the vendor.
+
+95
+00:09:07.870 --> 00:09:13.043
+If you agreed it by phone instead, Confirm marks it confirmed without sending.
+
+96
+00:09:13.716 --> 00:09:16.454
+When the goods arrive, click Receive goods.
+
+97
+00:09:16.494 --> 00:09:18.327
+This creates a goods receipt.
+
+98
+00:09:18.367 --> 00:09:23.496
+Posting the receipt increases stock in the warehouse at the purchase-order cost.
+
+99
+00:09:24.157 --> 00:09:26.881
+The purchase order is now marked received.
+
+100
+00:09:26.921 --> 00:09:31.226
+When the vendor’s invoice arrives, go to Bills and click New Bill.
+
+101
+00:09:31.266 --> 00:09:36.887
+Choose the vendor, and type the vendor’s own invoice number so you can match it later.
+
+102
+00:09:37.533 --> 00:09:40.720
+Add the twenty brushes at the agreed cost.
+
+103
+00:09:40.760 --> 00:09:47.407
+Posting a bill debits inventory or expense and input VAT, and credits accounts payable.
+
+104
+00:09:47.447 --> 00:09:48.483
+Save and post.
+
+105
+00:09:50.705 --> 00:09:52.831
+Pay the bill with Record payment.
+
+106
+00:09:52.871 --> 00:09:56.112
+This debits accounts payable and credits the bank.
+
+107
+00:09:56.152 --> 00:10:03.005
+Vendor credits work like customer credit notes, and all outgoing payments are listed under Payments Made.
+
+108
+00:10:07.597 --> 00:10:14.283
+Expenses record day-to-day spending that does not need a vendor bill — utilities, fuel, subscriptions.
+
+109
+00:10:14.323 --> 00:10:20.417
+Click Record expense, choose the date, the merchant, the expense account, and the net amount.
+
+110
+00:10:23.487 --> 00:10:31.814
+Pick the VAT rate and how it was paid: from a bank account, cash, card — or by an employee who needs to be reimbursed.
+
+111
+00:10:31.854 --> 00:10:37.417
+Employee claims can be approved, rejected, and reimbursed later from this list.
+
+112
+00:10:42.027 --> 00:10:44.268
+Banking starts with your accounts.
+
+113
+00:10:44.308 --> 00:10:51.047
+Each bank or cash account is mapped to a ledger account, so its balance always agrees with the books.
+
+114
+00:10:51.087 --> 00:10:55.476
+Move money between them with New transfer, including any bank fee.
+
+115
+00:10:56.138 --> 00:10:59.325
+Transactions shows your bank statement lines.
+
+116
+00:10:59.365 --> 00:11:04.992
+Import a statement with Import CSV: choose the bank account and paste the file.
+
+117
+00:11:05.032 --> 00:11:10.658
+Columns are matched by header — date, description, reference, debit and credit.
+
+118
+00:11:10.698 --> 00:11:16.038
+Duplicates are detected and skipped, and your bank rules run automatically.
+
+119
+00:11:16.693 --> 00:11:20.073
+For each uncategorised line you have two choices.
+
+120
+00:11:20.113 --> 00:11:28.032
+Find match links a deposit or payment to an existing invoice, bill or payment, so no duplicate journal is created.
+
+121
+00:11:28.072 --> 00:11:31.452
+Categorize posts the line directly to an account.
+
+122
+00:11:31.492 --> 00:11:35.083
+Here we file the Google Ads payment under Marketing.
+
+123
+00:11:35.742 --> 00:11:37.257
+Rules do this for you.
+
+124
+00:11:37.297 --> 00:11:45.741
+A rule says: if the description contains certain text, or the amount meets a condition, then categorise to this account.
+
+125
+00:11:45.781 --> 00:11:48.852
+Rules run in priority order on every import.
+
+126
+00:11:49.517 --> 00:11:51.099
+Finally, reconciliation.
+
+127
+00:11:51.139 --> 00:12:00.837
+Pick the bank account, enter the statement period and the closing balance from your bank statement, and tick the transactions that appear on it.
+
+128
+00:12:00.877 --> 00:12:07.667
+When the difference reaches zero, click Finish reconciliation, and those lines are marked reconciled.
+
+129
+00:12:12.273 --> 00:12:16.209
+Items are the products and services you buy and sell.
+
+130
+00:12:16.249 --> 00:12:19.435
+Goods can track inventory; services cannot.
+
+131
+00:12:19.475 --> 00:12:28.363
+Each item carries a SKU, sales price, purchase cost, tax, reorder level, and the revenue and cost accounts it posts to.
+
+132
+00:12:29.024 --> 00:12:30.849
+Stock is held in warehouses.
+
+133
+00:12:30.889 --> 00:12:40.244
+Every receipt, delivery, adjustment and transfer creates an immutable stock movement with a running balance — this is your stock audit trail.
+
+134
+00:12:40.905 --> 00:12:44.815
+Use adjustments after a stock count, or for damage and loss.
+
+135
+00:12:44.855 --> 00:12:52.123
+You enter the counted quantity, and the difference is valued at weighted-average cost and posted to the ledger.
+
+136
+00:12:52.163 --> 00:12:56.535
+Transfers move stock between warehouses without changing the total.
+
+137
+00:12:57.200 --> 00:13:03.422
+Valuation shows the quantity on hand, average cost and total value of every tracked item.
+
+138
+00:13:03.462 --> 00:13:08.630
+This figure always agrees with the Inventory account on the balance sheet.
+
+139
+00:13:13.218 --> 00:13:18.635
+The chart of accounts lists every ledger account with its code, type and balance.
+
+140
+00:13:18.675 --> 00:13:26.518
+System accounts such as receivables, payables and VAT are protected, and any account with activity cannot be deleted.
+
+141
+00:13:27.183 --> 00:13:31.364
+Journals shows every entry in the ledger, and where it came from.
+
+142
+00:13:31.404 --> 00:13:38.833
+Posted journals can never be edited — corrections are made with reversing entries, so the history is always intact.
+
+143
+00:13:39.487 --> 00:13:44.407
+Accountants can post manual journals, for example to accrue an expense.
+
+144
+00:13:44.447 --> 00:13:50.905
+Choose the accounts, enter debits and credits, and Finora refuses to post until they balance.
+
+145
+00:13:50.945 --> 00:13:57.612
+Here we accrue five thousand dirhams of September rent: debit Rent, and credit Accounts Payable.
+
+146
+00:13:57.652 --> 00:14:00.546
+The footer confirms the entry is balanced.
+
+147
+00:14:09.186 --> 00:14:11.832
+Debits equal credits, so we can post.
+
+148
+00:14:11.872 --> 00:14:23.016
+Recurring journals repeat an entry weekly, monthly, quarterly or yearly — such as depreciation — and the engine guarantees exactly one entry per run date.
+
+149
+00:14:23.680 --> 00:14:30.330
+The general ledger lists every line posted to each account in a date range, with a running balance.
+
+150
+00:14:30.370 --> 00:14:33.980
+Filter by account, and export to CSV for your auditor.
+
+151
+00:14:38.586 --> 00:14:42.934
+Taxes and VAT prepares your UAE VAT return for any period.
+
+152
+00:14:42.974 --> 00:14:55.344
+Output VAT on your sales and input VAT on your purchases and expenses are grouped by treatment: standard rated, zero rated, exempt, out of scope and reverse charge.
+
+153
+00:14:55.384 --> 00:15:01.246
+The net amount is what you pay to, or reclaim from, the Federal Tax Authority.
+
+154
+00:15:01.914 --> 00:15:09.694
+Every figure drills down to the underlying documents, and Export audit file downloads the full VAT transaction listing.
+
+155
+00:15:14.317 --> 00:15:21.180
+Reports are grouped into financial statements, receivables and payables, and sales and purchase analysis.
+
+156
+00:15:21.220 --> 00:15:27.427
+None of them can be edited — they are calculated from posted journals every time you open them.
+
+157
+00:15:28.089 --> 00:15:39.569
+The Profit and Loss shows revenue, cost of goods sold, gross profit, operating expenses and net profit for any date range, with an optional comparison period.
+
+158
+00:15:40.236 --> 00:15:47.073
+The Balance Sheet shows assets, liabilities and equity as of any date — and it always balances.
+
+159
+00:15:47.113 --> 00:15:53.806
+The Trial Balance lists every account’s debit or credit balance, and its totals always agree.
+
+160
+00:15:54.463 --> 00:16:04.236
+Aged receivables groups what customers owe into current, one to thirty, thirty-one to sixty, sixty-one to ninety, and over ninety days.
+
+161
+00:16:04.276 --> 00:16:07.217
+Use it every week to chase overdue money.
+
+162
+00:16:07.257 --> 00:16:09.253
+Every report has Export CSV.
+
+163
+00:16:13.836 --> 00:16:28.241
+Automation lets you build workflows: when something happens — an invoice is sent, a bill is created, stock runs low — and a condition is met, Finora sends a notification, an email, or requests an approval.
+
+164
+00:16:28.281 --> 00:16:34.866
+Reminders email customers before invoices fall due, and webhooks push events to other systems.
+
+165
+00:16:35.513 --> 00:16:43.679
+When approvals are switched on in Settings, any document above your approval threshold is held until a manager approves it.
+
+166
+00:16:43.719 --> 00:16:47.883
+Approval requests appear here, with approve and reject buttons.
+
+167
+00:16:48.552 --> 00:16:52.062
+Every customer and vendor gets a secure portal link.
+
+168
+00:16:52.102 --> 00:17:00.120
+Customers can see their invoices and statements, accept quotes, and pay online — payments post straight to your books.
+
+169
+00:17:00.160 --> 00:17:02.852
+Vendors can acknowledge purchase orders.
+
+170
+00:17:02.892 --> 00:17:05.652
+Copy a link, and send it to your contact.
+
+171
+00:17:06.310 --> 00:17:15.875
+This is what your customer sees: the total amount due, their invoices with a Pay button, open quotes they can accept, and their payment history.
+
+172
+00:17:15.915 --> 00:17:18.410
+They never see your internal accounts.
+
+173
+00:17:23.020 --> 00:17:32.583
+The AI assistant answers questions about your books in plain language: which invoices are unpaid, who your top customers are, how your cash looks.
+
+174
+00:17:32.623 --> 00:17:33.635
+It is read-only.
+
+175
+00:17:33.675 --> 00:17:41.200
+If you ask it to do something, such as send payment reminders, it proposes the action and waits for you to confirm.
+
+176
+00:17:41.862 --> 00:17:59.202
+Settings is where the owner configures the organisation: the company profile and TRN, VAT registration, designated zone, the period lock date that protects closed months, approval workflows and threshold, and the inventory valuation policy.
+
+177
+00:17:59.872 --> 00:18:10.507
+Users and roles lets you invite colleagues and give each one a role: owner, admin, accountant, sales, purchases, inventory, employee or viewer.
+
+178
+00:18:10.547 --> 00:18:13.942
+Each role only sees and does what it needs to.
+
+179
+00:18:14.599 --> 00:18:26.969
+The remaining tabs manage tax rates, currencies and exchange rates, document number prefixes, the email log, and the audit trail — a permanent record of who did what, and when.
+
+180
+00:18:28.636 --> 00:18:41.644
+Health runs Finora’s built-in accounting checks: every journal balances, the trial balance agrees, the balance sheet balances, document balances are consistent, and stock matches its movements.
+
+181
+00:18:41.684 --> 00:18:44.146
+All green means your books are sound.
+
+182
+00:18:44.828 --> 00:18:47.140
+That completes our tour of Finora.
+
+183
+00:18:47.180 --> 00:19:00.286
+The routine is simple: record sales and purchases as they happen, import your bank statement and categorise it, reconcile each month, and let the reports and the VAT return build themselves.
+
+184
+00:19:00.326 --> 00:19:01.877
+Thank you for watching.
+

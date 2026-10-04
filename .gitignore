@@ -6,3 +6,4 @@ data/runtime/
 test-output/
 *.log
 dist/
+.firecrawl/

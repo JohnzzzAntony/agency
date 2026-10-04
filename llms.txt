@@ -1,0 +1,32 @@
+# DuooNex
+
+> Dubai-based website and application development for UAE businesses, with remote delivery for GCC and international projects.
+
+## Services
+- [Custom websites](https://duoonex.com/services/web-design/): Responsive business websites and content management.
+- [Custom applications](https://duoonex.com/services/web-app-mvp-development/): Operational workflows, dashboards and customer portals.
+- [React and Next.js](https://duoonex.com/services/saas-mvp-development/): API-connected websites and application interfaces.
+- [Python and AI workflows](https://duoonex.com/services/ai-mvp-development/): Business backends, APIs and scoped AI integrations.
+- [Shopify development](https://duoonex.com/services/webflow/): Liquid themes, product content and store integrations.
+- [WordPress development](https://duoonex.com/services/law-firm-web-design-development/): Service websites and manageable publishing.
+- [UI/UX design](https://duoonex.com/services/ui-ux-design/): Figma journeys, interfaces and prototypes.
+
+## Selected projects
+- [Nexora](https://duoonex.com/case-studies/nexora/): A shared workspace for support tickets, tasks, approvals and customer service, with organisation-scoped access and activity history.
+- [Finora](https://duoonex.com/case-studies/finora/): A UAE-focused accounting platform connecting sales, purchases, inventory, banking and ledger-based business reports.
+- [Invitara](https://duoonex.com/case-studies/invitara/): Five animated invitation experiences with personalisation, guest replies, account-based publishing and event-date access rules.
+- [Mechaura International](https://duoonex.com/case-studies/mechaura/): An industrial catalogue website connecting UAE buyers with product specifications, sector information and quotation enquiries.
+- [AssetHub](https://duoonex.com/case-studies/assethub/): An IT asset management workspace for equipment records, assignments, locations, maintenance and lifecycle history.
+- [Jaber Property Manager](https://duoonex.com/case-studies/jaber-property/): A property operations application linking companies, properties, units, main leases, subleases and rental records.
+
+## Company and contact
+- [About DuooNex](https://duoonex.com/about/)
+- [Company facts](https://duoonex.com/llm-info/)
+- [Contact](https://duoonex.com/contact/)
+- Email: johnsantonyjo@gmail.com
+- Phone / WhatsApp: +971 58 810 2728
+- Location: Dubai, United Arab Emirates
+- Pricing and timelines are agreed by project scope.
+
+## Reading this portfolio
+Project pages describe evidenced scope and show original project media. Screenshots are not claims of business results. Application deployment and optional integrations require their own configuration. This file is a navigation aid, not a guarantee of AI indexing or citation.

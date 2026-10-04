@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "nexora",
+    "name": "Nexora",
+    "category": "Help desk & work management",
+    "stack": "Next.js",
+    "tags": "Websites|SaaS|B2B/B2C",
+    "repo": "https://github.com/JohnzzzAntony/Ticketing-",
+    "media": [
+      "nexora-1.webp",
+      "nexora-2.webp"
+    ],
+    "alt": [
+      "Nexora workspace dashboard with tickets, tasks and service status",
+      "Nexora mobile workspace navigation"
+    ],
+    "summary": "A shared workspace for support tickets, tasks, approvals and customer service, with organisation-scoped access and activity history.",
+    "overview": "Nexora is a help desk and work management application for teams handling service requests alongside everyday tasks. Staff can assign tickets, track status, add internal notes and coordinate project work. Customers have a separate portal, while organisation-level permissions keep each workspace focused on its own records.",
+    "detail": "Built with Next.js, React, TypeScript, Prisma and PostgreSQL, the application connects ticket handling with assets, knowledge articles and approvals. Its source includes authentication, workspace membership, private attachments and scoped API access. The gallery shows the demonstration workspace, rather than a customer production account.",
+    "features": [
+      "Ticket assignment and status transitions",
+      "Public replies and private internal notes",
+      "Project tasks, checklists and time tracking",
+      "Customer portal and knowledge articles",
+      "Assets, departments and locations",
+      "Workspace roles and session management"
+    ],
+    "journey": "A request becomes an assigned ticket with a visible status and activity trail. Agents can reply to customers, keep internal context private and link operational work to tasks. Dashboards bring outstanding requests into view so teams can decide what needs attention next.",
+    "engineering": "Tenant-scoped queries and role checks support separate workspaces. Ticket transitions, attachment access and approval actions follow server-side rules. The interface brings these rules into the daily workflow through status labels, assignment controls and a consistent navigation structure.",
+    "delivery": "The implemented scope covers support operations, team tasks and workspace administration. Advanced automation editors, billing checkout and live collaboration are outside the documented completed scope; integrations require their own configuration.",
+    "next": "Nexora demonstrates how a custom web application can connect service delivery with internal operations. For a similar UAE platform, define staff roles, customer access, ticket states and reporting needs before choosing integrations.",
+    "steps": [
+      "Route incoming requests to the right owner and preserve the conversation history.",
+      "Keep task checklists, assignees and tracked time beside project work.",
+      "Give customers a dedicated place to follow their support requests.",
+      "Control workspace settings, permissions, notifications and knowledge content."
+    ]
+  },
+  {
+    "slug": "finora",
+    "name": "Finora",
+    "category": "Accounting & business operations",
+    "stack": "Next.js",
+    "tags": "Websites|SaaS|Fintech|AI|B2B/B2C",
+    "media": [
+      "finora-1.webp",
+      "finora-2.webp",
+      "finora-3.webp",
+      "finora-4.webp",
+      "finora-5.webp",
+      "finora.mp4"
+    ],
+    "alt": [
+      "Finora accounting dashboard with AED balances and invoice summaries",
+      "Finora sales invoice workspace",
+      "Finora banking and reconciliation interface",
+      "Finora business reporting workspace",
+      "Finora AI assistant interface",
+      "Finora narrated application walkthrough"
+    ],
+    "summary": "A UAE-focused accounting platform connecting sales, purchases, inventory, banking and ledger-based business reports.",
+    "overview": "Finora is a business accounting application designed around the daily work of UAE trading and service companies. Sales, purchases, expenses and inventory connect to a double-entry ledger. Teams can review invoices, payments, bank transactions and reports within the same organisation workspace.",
+    "detail": "The implementation uses Next.js, TypeScript and Prisma, with money stored in integer minor units. The source includes balanced journal posting, reversing entries, document numbering, inventory movements and role-based access. Original demonstration screenshots and the narrated user manual show how the modules fit together.",
+    "features": [
+      "Sales invoices and customer payments",
+      "Purchase orders, bills and vendor payments",
+      "Bank imports and reconciliation",
+      "Inventory and warehouse movements",
+      "Ledger-based financial reports",
+      "Organisation roles and AI assistance"
+    ],
+    "journey": "Users move from a customer or supplier record to a commercial document, then to posting and settlement. Related journal entries provide a traceable accounting view. The dashboard summarises cash, receivables and payables so staff can move from an overview to the underlying records.",
+    "engineering": "Financial documents feed balanced journal entries rather than isolated dashboard totals. The code represents amounts in fils and handles corrections through reversing entries. Tenant context, roles and server-side validation are part of the implementation, alongside reporting and document workflows.",
+    "delivery": "The documented scope includes accounting, inventory, banking, reports and account administration. The assistant and external services depend on their configured providers. Tax settings and financial reports need business-specific review before operational use; the portfolio does not represent regulatory certification.",
+    "next": "Finora illustrates a custom business platform built around connected records and traceable transactions. A comparable UAE project starts with the chart of accounts, document lifecycle, approval responsibilities and migration requirements.",
+    "steps": [
+      "Create customer and supplier records with the details needed for documents.",
+      "Manage invoices, bills, payments and their posting lifecycle.",
+      "Reconcile bank activity and review stock movements across warehouses.",
+      "Use ledger-based reports and the walkthrough to understand daily operations."
+    ]
+  },
+  {
+    "slug": "invitara",
+    "name": "Invitara",
+    "category": "Interactive invitation platform",
+    "stack": "Node.js",
+    "tags": "Websites|SaaS|B2B/B2C",
+    "repo": "https://github.com/JohnzzzAntony/Invitation-01",
+    "media": [
+      "invitara-1.webp",
+      "invitara-2.webp",
+      "invitara-3.webp",
+      "invitara-4.webp",
+      "invitara-5.webp",
+      "invitara-6.webp",
+      "invitara-7.webp",
+      "invitara.mp4"
+    ],
+    "alt": [
+      "Invitara invitation collection storefront",
+      "Vellum wedding invitation experience",
+      "Nocturne cinematic gala invitation",
+      "Confetti Club birthday invitation",
+      "Little Bloom baby celebration invitation",
+      "Atlas destination wedding invitation",
+      "Invitara mobile invitation editor",
+      "Nocturne invitation film from the project"
+    ],
+    "summary": "Five animated invitation experiences with personalisation, guest replies, account-based publishing and event-date access rules.",
+    "overview": "Invitara is an invitation platform with five distinct experiences for weddings, galas, birthdays and family celebrations. Customers choose a design, personalise content and share a published guest link. The product combines animated storytelling with an editor, RSVP collection and an account dashboard.",
+    "detail": "The application uses Node.js, Express, SQLite and a locally bundled GSAP frontend. Vellum, Nocturne, Confetti Club, Little Bloom and Atlas each have their own composition. The original screenshots show the storefront, invitation themes and mobile editor; the film belongs to the Nocturne experience.",
+    "features": [
+      "Five independent invitation compositions",
+      "Editable content, images and section order",
+      "Guest replies and CSV export",
+      "Account-based saves and publishing",
+      "Stripe webhook purchase verification",
+      "Timezone-aware event expiry"
+    ],
+    "journey": "A visitor previews a theme and creates a personalised draft before purchase. Verified checkout unlocks the purchased experience. The owner can publish a guest link, collect replies and review responses, with editing access governed by the selected event date and timezone.",
+    "engineering": "The server checks purchase status and expiry for save and publish actions. Stripe redirects alone do not unlock a purchase: the application verifies signed webhook events. Password hashing, account sessions and private owner access protect the editing and RSVP workflows.",
+    "delivery": "Drafts and previews work without payment credentials. Live checkout requires configured Stripe keys and webhook delivery. After the event, the editor becomes read-only and replies close while the published invitation remains available as a keepsake.",
+    "next": "Invitara connects expressive web design with a practical content and purchase workflow. A similar event product should define who can edit, how guests respond, when access expires and what remains available after the event.",
+    "steps": [
+      "Preview five themes with distinct typography, motion and opening interactions.",
+      "Personalise text, photos, colours and section order in the editor.",
+      "Publish after verified purchase and share the invitation with guests.",
+      "Manage guest replies and retain the invitation after the event ends."
+    ]
+  },
+  {
+    "slug": "mechaura",
+    "name": "Mechaura International",
+    "category": "Industrial supplier website",
+    "stack": "Vite",
+    "tags": "Websites|B2B/B2C",
+    "repo": "https://github.com/JohnzzzAntony/New-Mechaura",
+    "url": "https://mechaurainternational.com/",
+    "media": [
+      "mechaura.webp",
+      "mechaura-detail.webp",
+      "mechaura-1.webp",
+      "mechaura-2.webp",
+      "mechaura-3.webp",
+      "mechaura.mp4",
+      "mechaura-processing.mp4",
+      "mechaura-sequence.mp4"
+    ],
+    "alt": [
+      "Mechaura industrial supplier website homepage",
+      "Mechaura product and industry content",
+      "Industrial equipment imagery from Mechaura",
+      "Mechaura abrasive brush product image",
+      "Mechaura bandsaw blade product image",
+      "Mechaura product showcase film",
+      "Mechaura machinery processing film",
+      "Mechaura industrial product sequence"
+    ],
+    "summary": "An industrial catalogue website connecting UAE buyers with product specifications, sector information and quotation enquiries.",
+    "overview": "Mechaura International is an industrial supplier website organised around products, sectors and quotation enquiries. Its catalogue covers abrasive brushes, bearings, hydraulic hoses, elevator accessories and tooling. Product imagery and motion content help buyers understand the range before contacting the supplier.",
+    "detail": "The project uses a Vite build with generated product and article pages, a sitemap workflow and optimised image assets. The portfolio includes captures of the working website plus original product visuals and three films stored with the source project.",
+    "features": [
+      "Product-led catalogue navigation",
+      "Dedicated industrial product pages",
+      "Sector-specific information",
+      "Quotation and contact journeys",
+      "Optimised WebP product imagery",
+      "Product videos and editorial content"
+    ],
+    "journey": "Buyers can enter through a product category or an industry page, review relevant equipment and move to a quotation enquiry. The website separates product information from company and service content so technical and commercial visitors can find an appropriate next step.",
+    "engineering": "Product and editorial pages are generated as static content for delivery through the website build. Images are prepared in WebP, while videos provide supporting product context. Metadata and sitemap generation keep discovery tied to the pages that the build actually publishes.",
+    "delivery": "The delivered website scope is catalogue presentation and business enquiries. It is not presented as an online checkout or stock-control application. Product availability, quotation responses and fulfilment remain supplier-operated processes.",
+    "next": "Mechaura shows how an industrial website can organise technical products for UAE and GCC buyers. A similar catalogue starts with product categories, usable specifications, sector requirements and a clear enquiry route.",
+    "steps": [
+      "Organise the catalogue around equipment categories and buyer terminology.",
+      "Explain product applications through dedicated pages and original visuals.",
+      "Connect industry content with relevant products and enquiry actions.",
+      "Generate static pages, optimise assets and publish a crawlable sitemap."
+    ]
+  },
+  {
+    "slug": "assethub",
+    "name": "AssetHub",
+    "category": "IT asset management application",
+    "stack": "Next.js",
+    "tags": "Websites|SaaS|B2B/B2C",
+    "repo": "https://github.com/JohnzzzAntony/Assetsmanager",
+    "media": [
+      "assethub-1.webp"
+    ],
+    "alt": [
+      "AssetHub dashboard showing asset status, departments and locations"
+    ],
+    "summary": "An IT asset management workspace for equipment records, assignments, locations, maintenance and lifecycle history.",
+    "overview": "AssetHub is an IT asset management application that brings equipment records and operational ownership into one workspace. Its dashboard groups assets by status, department and location. The repository includes workflows for assignment, maintenance, bookings, audits and asset history.",
+    "detail": "The implementation uses Next.js, React, TypeScript and Prisma. The original dashboard capture shows the inventory overview, while the repository contains server routes for asset records, checkouts, disposal and audit activity. This entry describes the implemented product scope without claiming a customer rollout.",
+    "features": [
+      "Asset records and status tracking",
+      "Assignments and checkout history",
+      "Departments, people and locations",
+      "Maintenance and disposal records",
+      "Asset bookings and audit routes",
+      "QR and timeline export endpoints"
+    ],
+    "journey": "An equipment record connects an asset to the people and locations responsible for it. Staff can review availability, record an assignment and follow lifecycle activity. Maintenance and disposal workflows keep operational changes associated with the relevant item.",
+    "engineering": "The application separates asset records from related activity such as assignment, maintenance and checkout. Dedicated routes support those actions alongside audit and export functions. The dashboard provides a summary view while detailed records retain the operational context.",
+    "delivery": "The portfolio evidence consists of an original dashboard capture and implemented repository modules. Deployment configuration, imports and organisation-specific acceptance testing remain part of any rollout. No uptime or security certification is asserted.",
+    "next": "AssetHub demonstrates the structure of a custom inventory workspace. For an equivalent UAE business tool, define asset categories, ownership rules, checkout responsibilities and the reports needed by operations before importing existing records.",
+    "steps": [
+      "Capture equipment details and group records by asset type.",
+      "Connect each item with its department, location and responsible person.",
+      "Track checkout, maintenance and disposal against the asset lifecycle.",
+      "Review status summaries, activity history and audit workflows."
+    ]
+  },
+  {
+    "slug": "jaber-property",
+    "name": "Jaber Property Manager",
+    "category": "Property & lease management",
+    "stack": "Next.js",
+    "tags": "Websites|SaaS|Real estate|B2B/B2C",
+    "repo": "https://github.com/JohnzzzAntony/Jaber",
+    "media": [
+      "jaber-property-1.webp",
+      "jaber-property-2.webp"
+    ],
+    "alt": [
+      "Property management dashboard with units, leases and occupancy summaries",
+      "Property management application reporting view"
+    ],
+    "summary": "A property operations application linking companies, properties, units, main leases, subleases and rental records.",
+    "overview": "Jaber Property Manager is a web application for managing a connected property and lease hierarchy. Company records lead to properties and units, with main leases, subtenants and subleases linked to operational records. The dashboard summarises occupancy, contract values and upcoming expiries.",
+    "detail": "The project source uses Next.js, TypeScript, Prisma and a database-backed administration interface. Modules cover property records, lease tracking, rental collections and reporting. The original captures show the application interface; displayed record counts are screen data, not business performance claims.",
+    "features": [
+      "Company, property and unit records",
+      "Main lease and sublease workflows",
+      "Subtenant and registration records",
+      "Rental invoice and receipt tracking",
+      "Expiry alerts and reporting",
+      "Role-based application access"
+    ],
+    "journey": "Property teams move from an overview of units and leases into the records that explain each occupancy. Main leases and subleases retain separate details while connecting to the same property structure. Rental records and expiry views support follow-up work.",
+    "engineering": "Related data models represent companies, properties, units and lease agreements. The interface exposes these relationships through dedicated modules and summary charts. Registration fields support record tracking; they do not establish an integration with a government registration service.",
+    "delivery": "The evidenced scope is a property administration application with lease and rental workflows. Data migration, permissions and contract calculations require organisation-specific validation before deployment. No official government partnership or registration certification is claimed.",
+    "next": "This project demonstrates a custom application for property operations in the UAE. A similar build begins with the property hierarchy, lease relationships, document ownership and the reporting responsibilities of the users.",
+    "steps": [
+      "Map companies, properties and units into a connected hierarchy.",
+      "Record main leases, subleases and the relevant tenant details.",
+      "Follow rental invoices, receipts and upcoming document expiries.",
+      "Review occupancy and contract summaries through the reporting interface."
+    ]
+  }
+]

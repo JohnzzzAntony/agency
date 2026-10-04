@@ -1,9 +1,33 @@
-/* Wavespace clone — interactions. No dependencies. */
+/* DuooNex website interactions. No dependencies. */
 (function () {
   'use strict';
 
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
+
+  /* Original project media stays inside the existing artwork area. */
+  $$('[data-project-gallery]').forEach(function (gallery) {
+    var controls = gallery.parentElement.querySelector('[data-gallery-controls]');
+    if (!controls) return;
+    var slides = $$('[data-project-slide]', gallery);
+    var current = function () { return Math.max(0, Math.min(slides.length - 1, Math.round(gallery.scrollLeft / gallery.clientWidth))); };
+    var go = function (delta) {
+      var index = (current() + delta + slides.length) % slides.length;
+      $$('video', gallery).forEach(function (video) { video.pause(); });
+      gallery.scrollTo({left: gallery.clientWidth * index, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'});
+    };
+    controls.querySelector('[data-gallery-prev]').addEventListener('click', function () { go(-1); });
+    controls.querySelector('[data-gallery-next]').addEventListener('click', function () { go(1); });
+    gallery.addEventListener('keydown', function (event) {
+      if (event.target.tagName === 'VIDEO') return;
+      if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') { event.preventDefault(); go(event.key === 'ArrowRight' ? 1 : -1); }
+    });
+    gallery.addEventListener('scroll', function () {
+      var index = current();
+      controls.querySelector('[data-gallery-position]').textContent = (index + 1) + ' / ' + slides.length;
+      slides.forEach(function (slide, i) { if (i !== index) $$('video', slide).forEach(function (video) { video.pause(); }); });
+    }, {passive: true});
+  });
 
   /* ---- Sticky header state ---- */
   var header = $('.header');
@@ -141,20 +165,12 @@
         var entries = new FormData(form), data = {};
         ['name','email','message','budget','source'].forEach(function (key) { data[key] = entries.get(key) || ''; });
         data.help = entries.getAll('help').join(', ');
-        var endpoint = form.getAttribute('data-form-endpoint');
-        if (endpoint) {
-          var response = await fetch(endpoint, { method: 'POST', headers: {'Content-Type':'application/json', 'Accept':'application/json'}, body: JSON.stringify(data) });
-          if (!response.ok) throw new Error('Unable to send your enquiry. Please try again or contact us by email.');
-          note.textContent = 'Thank you. Your enquiry has been received.';
-          note.classList.add('is-ok');
-          form.reset();
-        } else {
-          var email = form.getAttribute('data-contact-email') || 'johnsantonyjo@gmail.com';
-          var lines = ['Name: '+data.name, 'Email: '+data.email, 'Budget: '+data.budget, 'Services: '+data.help, 'Source: '+data.source, '', data.message];
-          window.location.href = 'mailto:'+encodeURIComponent(email)+'?subject='+encodeURIComponent('Website enquiry from '+data.name)+'&body='+encodeURIComponent(lines.join('\n'));
-          note.textContent = 'An email draft has been opened. Send it from your email app to complete your enquiry. If no app opens, email '+email+'.';
-          note.classList.remove('is-ok');
-        }
+        var response = await fetch('/api/inquiries', { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(data) });
+        var result = await response.json();
+        if (!response.ok) throw new Error(result.error || 'Unable to send your enquiry. Please try again.');
+        note.textContent = 'Thank you. Your enquiry has been received.';
+        note.classList.add('is-ok');
+        form.reset();
       } catch (error) { note.textContent = error.message || 'Unable to send your enquiry. Please try again.'; note.classList.remove('is-ok'); }
       finally { if (submit) submit.disabled = false; }
     });

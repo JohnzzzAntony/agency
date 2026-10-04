@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /*?preview=
+
+Sitemap: https://duoonex.com/sitemap.xml

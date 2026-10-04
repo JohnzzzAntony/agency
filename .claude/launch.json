@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "duoonex",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["-e", "process.env.CMS_ADMIN_TOKEN=process.env.CMS_ADMIN_TOKEN||require('crypto').randomBytes(32).toString('hex');process.env.CMS_DATA_DIR=process.env.CMS_DATA_DIR||require('path').resolve('data/runtime');require('./server.js').createServer().listen(Number(process.env.PORT||3100))"],
+      "port": 3100,
+      "autoPort": true
+    }
+  ]
+}
